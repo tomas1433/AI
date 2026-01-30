@@ -1,0 +1,3354 @@
+{
+  "common": {
+    "home": "Home",
+    "categories": "Categories",
+    "locations": "Locations",
+    "taskers": "Taskers",
+    "tasks": "Tasks",
+    "postTask": "Post a Request",
+    "becomeTasker": "Become a Tasker",
+    "howItWorks": "How It Works",
+    "blog": "Blog",
+    "login": "Login",
+    "register": "Register",
+    "search": "Search",
+    "filter": "Filter",
+    "sort": "Sort",
+    "price": "Price",
+    "rating": "Rating",
+    "reviews": "Reviews",
+    "contact": "Contact",
+    "about": "Über",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "retry": "Try again",
+    "navigation": {
+      "home": "Home",
+      "countries": "Countries",
+      "cities": "Cities"
+    },
+    "location": {
+      "notSpecified": "Location not specified"
+    },
+    "viewDetails": "View Details",
+    "viewProfile": "View Profile",
+    "pagination": {
+      "previous": "Previous",
+      "next": "Next"
+    }
+  },
+  "HomePage": {
+    "nav": {
+      "services": "Services",
+      "becomeTasker": "Become a Tasker",
+      "login": "Log in",
+      "signup": "Sign up"
+    },
+    "hero": {
+      "title": "Find Local Services & Skilled Taskers",
+      "subtitle": "Connect with trusted professionals for all your home and business needs. From cleaning to repairs, we've got you covered.",
+      "searchPlaceholder": "What do you need help with?",
+      "searchButton": "Search",
+      "popularServices": "Popular services"
+    },
+    "services": {
+      "cleaning": "Cleaning",
+      "maintenance": "Maintenance",
+      "gardening": "Gardening",
+      "itWeb": "IT & Web",
+      "moving": "Moving"
+    },
+    "categories": {
+      "title": "Browse Services"
+    },
+    "howItWorks": {
+      "title": "How Manofix Works",
+      "step1": {
+        "title": "Post Your Request",
+        "description": "Tell us what you need done and when"
+      },
+      "step2": {
+        "title": "Get Offers",
+        "description": "Receive offers from skilled taskers"
+      },
+      "step3": {
+        "title": "Choose & Pay",
+        "description": "Select the best offer and pay securely"
+      },
+      "step4": {
+        "title": "Get It Done",
+        "description": "Your task gets completed to your satisfaction"
+      }
+    },
+    "cta": {
+      "title": "Ready to Get Started?",
+      "titleWithLocation": "Ready to Get Started in {locationName}?",
+      "subtitle": "Join thousands of satisfied customers and skilled taskers",
+      "subtitleWithLocation": "Join thousands of satisfied customers and skilled taskers in {locationName}",
+      "postTask": "Post a Request",
+      "becomeTasker": "Become a Tasker"
+    },
+    "footer": {
+      "description": "Connect with trusted professionals for all your home and business needs.",
+      "services": "Services",
+      "company": "Company",
+      "support": "Support",
+      "about": "About Us",
+      "contact": "Contact",
+      "careers": "Careers",
+      "help": "Help Center",
+      "safety": "Safety",
+      "terms": "Terms of Service"
+    },
+    "carousel": {
+      "requests": {
+        "title": "See what others are getting done"
+      },
+      "taskers": {
+        "title": "Meet our skilled taskers"
+      },
+      "viewRequest": "View Request",
+      "viewTasker": "View Profile",
+      "empty": "No requests or taskers available at the moment"
+    }
+  },
+  "homepage": {
+    "title": "Find Local Services & Skilled Taskers",
+    "subtitle": "Connect with trusted professionals for all your home and business needs",
+    "searchPlaceholder": "What service do you need?",
+    "popularCategories": "Popular Categories",
+    "howItWorksTitle": "How Manofix Works",
+    "step1": "Post your request",
+    "step2": "Get offers from taskers",
+    "step3": "Choose the best tasker",
+    "step4": "Get it done safely"
+  },
+  "categories": {
+    "cleaning": "Cleaning",
+    "maintenance": "Maintenance",
+    "gardening": "Gardening",
+    "itWeb": "IT & Web",
+    "buildingJobs": "Building Jobs",
+    "cooking": "Cooking",
+    "healthWellness": "Health & Wellness",
+    "petCare": "Pet Care",
+    "moving": "Moving Services"
+  },
+  "seo": {
+    "homepage": {
+      "title": "Manofix, Handyman Service & Job Marketplace",
+      "description": "Manofix connects individuals & professionals, for renovation, painting, cleaning, plumbing, delivery, removals, gardening or any other task you need!"
+    },
+    "blogs": {
+      "title": "Manofix Blog - Latest News, Tips & Insights",
+      "description": "Stay updated with the latest news, tips, and insights from Manofix. Read about home services, tasker stories, and industry trends."
+    },
+    "becomeTasker": {
+      "title": "Find work nearby in Plumbing, renovations, cleaning ..",
+      "description": "Increase your income with missions near you in plumbing, renovations, painting, cleaning, gardening. Earn money online !"
+    },
+    "earnMoney": {
+      "title": "Earn Money Online | Become a Tasker & Offer Services | Manofix",
+      "description": "Join Manofix as a tasker and earn money offering services. Perfect for expats, students, retirees, and professionals. Set your own rates, flexible schedule, secure payments. Start earning today!"
+    },
+    "earnMoneyPages": {
+      "baseKeywords": "earn money, tasker, service provider, flexible work, online jobs, side hustle",
+      "category": {
+        "titleTemplate": "Earn Money as {categoryName} Tasker | {categoryName} Jobs",
+        "descriptionTemplate": "Start earning money as a {categoryName} tasker on Manofix. Flexible hours, competitive rates, secure payments. Perfect for professionals and skilled workers. Join thousands of taskers already earning!",
+        "keywordsTemplate": "{baseKeywords}, {categoryName}, {categoryName} jobs, {categoryName} services, {categoryName} tasker, {subcategorySlug}, service marketplace, freelance, contractor"
+      },
+      "subcategory": {
+        "titleTemplate": "Earn Money as {subcategoryName} Tasker | {categoryName} Jobs",
+        "descriptionTemplate": "Start earning money as a {subcategoryName} tasker specializing in {categoryName} on Manofix. Flexible hours, competitive rates, secure payments. Perfect for skilled professionals. Join thousands of taskers already earning!",
+        "keywordsTemplate": "{baseKeywords}, {subcategoryName}, {categoryName}, {subcategoryName} jobs, {subcategoryName} services, {subcategoryName} tasker, {subcategorySlug}, {categorySlug}, specialized services, professional services"
+      },
+      "country": {
+        "titleTemplate": "Earn Money as {subcategoryName} Tasker in {countryName} | {categoryName} Jobs",
+        "descriptionTemplate": "Find {subcategoryName} tasker jobs and earn money in {countryName}. Join Manofix as a {subcategoryName} service provider specializing in {categoryName}. Set your own rates, work flexible hours, get paid securely. Start earning today!",
+        "keywordsTemplate": "{baseKeywords}, {countryName}, {countryName} jobs, {countryName} tasker, {countrySlug}, {subcategoryName}, {categoryName}, {subcategoryName} {countryName}, {categoryName} {countryName}, local services, regional jobs"
+      },
+      "city": {
+        "titleTemplate": "Earn Money as {subcategoryName} Tasker in {cityName}, {countryName} | {categoryName} Jobs",
+        "descriptionTemplate": "Earn money as a {subcategoryName} tasker in {cityName}, {countryName}. Find local {subcategoryName} jobs specializing in {categoryName}, set your own rates, work flexible hours. Join Manofix and start earning today!",
+        "keywordsTemplate": "{baseKeywords}, {cityName}, {cityName} jobs, {cityName} tasker, {citySlug}, {countryName}, {cityName} {countryName}, {countryName} jobs, {subcategoryName}, {categoryName}, {subcategoryName} {cityName}, {categoryName} {cityName}, local services, city jobs"
+      },
+      "countries": {
+        "title": "Earn Money Across Europe | Tasker Jobs by Country",
+        "description": "Find tasker opportunities across Europe. Join Manofix as a service provider in multiple countries. Set your own rates, work flexible hours, get paid securely. Start earning today!",
+        "keywords": "earn money, tasker, service provider, flexible work, online jobs, side hustle, europe, european jobs, international, cross-border, multiple countries, regional opportunities"
+      },
+      "cities": {
+        "title": "Earn Money in Major Cities | Tasker Jobs by City",
+        "description": "Find tasker opportunities in major cities across Europe. Join Manofix as a service provider in urban areas. Set your own rates, work flexible hours, get paid securely. Start earning today!",
+        "keywords": "earn money, tasker, service provider, flexible work, online jobs, side hustle, major cities, urban jobs, city opportunities, metropolitan areas, local markets"
+      }
+    }
+  },
+  "Header": {
+    "nav": {
+      "services": "Services",
+      "becomeTasker": "Become a Tasker",
+      "howItWorks": "How it Works",
+      "dashboard": "Dashboard",
+      "messages": "Messages",
+      "profile": "Profile",
+      "signOut": "Sign Out",
+      "login": "Log in",
+      "signup": "Sign up"
+    }
+  },
+  "Footer": {
+    "description": "Connect with trusted professionals for all your home and business needs.",
+    "poweredBy": "Powered by",
+    "rights": "© {year} Manofix. All rights reserved.",
+    "categories": {
+      "title": "Categories",
+      "cleaning": "Cleaning",
+      "maintenance": "Maintenance",
+      "gardening": "Gardening",
+      "itWeb": "IT & Web",
+      "moving": "Moving",
+      "loading": "Loading categories..."
+    },
+    "company": {
+      "title": "Über",
+      "about": "Über uns",
+      "contact": "Contact us",
+      "careers": "Careers",
+      "press": "Press",
+      "blog": "Manofix Blog"
+    },
+    "support": {
+      "title": "Support",
+      "help": "Help Center",
+      "safety": "Safety",
+      "terms": "Terms & conditions",
+      "privacy": "Privacy policy",
+      "cookies": "Cookie Policy",
+      "api": "Business API"
+    },
+    "discover": {
+      "title": "Discover",
+      "earnMoney": "Earn Money",
+      "browseTasks": "Browse public requests",
+      "findTaskers": "Discover tasker near you",
+      "subscription": "Subscription",
+      "fixToken": "FIX Token",
+      "aiRequestAssistant": "AI Request Assistant",
+      "aiQuoteGenerator": "KI-Angebotsgenerator",
+      "countries": "Countries",
+      "cities": "Cities"
+    }
+  },
+  "ServicesPage": {
+    "nav": {
+      "services": "Services",
+      "becomeTasker": "Become a Tasker",
+      "login": "Log in",
+      "signup": "Sign up"
+    },
+    "hero": {
+      "title": "Alle Dienste",
+      "subtitle": "Browse our comprehensive range of services and find the perfect professional for your needs.",
+      "searchPlaceholder": "Search for a service...",
+      "searchButton": "Search"
+    },
+    "categories": {
+      "cleaning": {
+        "title": "Cleaning Services",
+        "description": "Professional cleaning services for homes and offices"
+      },
+      "maintenance": {
+        "title": "Maintenance & Repairs",
+        "description": "Home and office maintenance and repair services"
+      },
+      "gardening": {
+        "title": "Gardening & Landscaping",
+        "description": "Garden care and landscaping services"
+      },
+      "itWeb": {
+        "title": "IT & Web Services",
+        "description": "Technology and web development services"
+      },
+      "moving": {
+        "title": "Moving & Delivery",
+        "description": "Moving and delivery services"
+      },
+      "petCare": {
+        "title": "Pet Care",
+        "description": "Pet care and veterinary services"
+      },
+      "health": {
+        "title": "Health & Wellness",
+        "description": "Health and wellness services"
+      },
+      "cooking": {
+        "title": "Cooking & Catering",
+        "description": "Cooking and catering services"
+      },
+      "viewTasks": "View Available Tasks"
+    },
+    "cta": {
+      "title": "Need Something Else?",
+      "subtitle": "Can't find what you're looking for? Post your request and let taskers come to you.",
+      "postTask": "Post a Request",
+      "becomeTasker": "Become a Tasker"
+    }
+  },
+  "TasksPage": {
+    "seo": {
+      "title": "Browse Tasks & Find Work | Manofix",
+      "description": "Find local jobs and tasks in various categories. Browse available service requests from clients and start earning money today."
+    },
+    "hero": {
+      "title": "Available Tasks",
+      "subtitle": "Browse tasks posted by customers and start earning money by helping others."
+    },
+    "filters": {
+      "allCategories": "Alle Kategorien",
+      "location": "Enter location...",
+      "allBudgets": "Alle Budgets",
+      "search": "Search Tasks"
+    },
+    "categories": {
+      "cleaning": "Cleaning",
+      "maintenance": "Maintenance",
+      "gardening": "Gardening",
+      "itWeb": "IT & Web",
+      "moving": "Moving"
+    },
+    "list": {
+      "title": "Available Tasks",
+      "sortBy": "Sort by",
+      "newest": "Newest First",
+      "budgetHigh": "Highest Budget",
+      "budgetLow": "Lowest Budget",
+      "budget": "Budget",
+      "viewDetails": "View Details",
+      "makeOffer": "Make Offer"
+    },
+    "status": {
+      "open": "Open",
+      "assigned": "Assigned",
+      "in_progress": "In Progress",
+      "completed": "Completed",
+      "cancelled": "Cancelled"
+    },
+    "pagination": {
+      "previous": "Previous",
+      "next": "Next"
+    }
+  },
+  "CategoriesPage": {
+    "seo": {
+      "title": "All Service Categories | Manofix",
+      "description": "Browse all service categories on Manofix. Find trusted professionals for cleaning, maintenance, gardening, IT services, and more."
+    },
+    "hero": {
+      "title": "All Service Categories",
+      "subtitle": "Browse our comprehensive range of service categories and find the perfect professional for your needs."
+    },
+    "viewCategory": "View Category",
+    "noCategories": "No categories available at the moment."
+  },
+  "CategoryPage": {
+    "defaultDescription": "Find trusted {category} professionals in your area.",
+    "availableTasks": {
+      "title": "Available Services",
+      "subtitle": "Choose from our professional service options"
+    },
+    "noTasks": "No {category} tasks available at the moment.",
+    "browseAllTasks": "Browse All Tasks",
+    "postTask": "Post a Request",
+    "postTaskDescription": "Need {category} services? Post your request and get offers from qualified professionals.",
+    "postTaskButton": "Post {category} request",
+    "becomeTasker": "Become a Tasker",
+    "becomeTaskerDescription": "Are you skilled in {category}? Start earning money by helping others.",
+    "becomeTaskerButton": "Start Earning",
+    "subcategories": {
+      "title": "Subcategories",
+      "viewSubcategory": "View"
+    },
+    "availableRequests": {
+      "title": "Available Requests",
+      "subtitle": "Browse service requests for this category"
+    },
+    "availableTaskers": {
+      "title": "Professional Taskers",
+      "subtitle": "Connect with skilled professionals offering services in this category"
+    },
+    "cta": {
+      "title": "Ready to Get Started?",
+      "subtitle": "Join thousands of satisfied customers and professional taskers",
+      "postTask": "Post a Request",
+      "becomeTasker": "Become a Tasker"
+    },
+    "pagination": {
+      "previous": "Previous",
+      "next": "Next"
+    }
+  },
+  "CountriesPage": {
+    "seo": {
+      "title": "All Countries | Manofix",
+      "description": "Browse all countries where Manofix operates. Find local services and professionals in your country."
+    },
+    "hero": {
+      "title": "Alle Länder",
+      "subtitle": "Browse all countries where Manofix operates and find local services in your area."
+    },
+    "home": "Home",
+    "navigation": {
+      "countries": "Countries"
+    },
+    "viewCountry": "View Country",
+    "noCountries": "No countries available at the moment."
+  },
+  "CountryPage": {
+    "seo": {
+      "title": "Services in {countryName} | Manofix",
+      "description": "Find trusted professionals and services across {countryName}. Connect with local taskers in major cities.",
+      "notFound": {
+        "title": "Country Not Found | Manofix",
+        "description": "The requested country could not be found."
+      }
+    },
+    "hero": {
+      "title": "Services in {countryName}",
+      "subtitle": "Discover professional services and connect with local taskers across {countryName}"
+    },
+    "sections": {
+      "citiesIn": "Cities in {countryName}",
+      "citiesSubtitle": "Explore professional services in major cities across {countryName}",
+      "noCities": "No cities available in {countryName} at the moment.",
+      "findServices": "Find professional services in {cityName}"
+    },
+    "requests": {
+      "title": "Active Requests in {countryName}",
+      "subtitle": "Browse available service requests and start earning money today",
+      "viewDetails": "View Details",
+      "noRequests": "No Active Requests",
+      "noRequestsDescription": "There are currently no active requests in {countryName}. Be the first to post one!",
+      "postFirst": "Post First Request",
+      "budget": "Budget",
+      "location": "Location",
+      "postedOn": "Posted on"
+    },
+    "taskers": {
+      "title": "Professional Taskers in {countryName}",
+      "subtitle": "Connect with skilled professionals ready to help with your tasks",
+      "viewProfile": "View Profile",
+      "noTaskers": "No Taskers Available",
+      "noTaskersDescription": "No professional taskers are currently available in {countryName}. Join our platform!",
+      "becomeTasker": "Become a Tasker",
+      "hourlyRate": "Hourly Rate",
+      "location": "Location",
+      "experience": "Experience"
+    },
+    "pagination": {
+      "showingRequests": "Showing {current} of {total} requests",
+      "showingTaskers": "Showing {current} of {total} taskers"
+    },
+    "sidebar": {
+      "postRequest": {
+        "title": "Post a Request",
+        "description": "Need help in {countryName}? Post your request and receive offers from qualified professionals.",
+        "button": "Post a Request"
+      },
+      "becomeTasker": {
+        "title": "Become a Tasker",
+        "description": "Are you a professional in {countryName}? Join our platform and start earning money.",
+        "button": "Become a Tasker"
+      },
+      "countryInfo": {
+        "title": "Country Info",
+        "availableCities": "Available Cities:",
+        "avgHourlyRate": "Avg. Hourly Rate:",
+        "avgRequestBudget": "Avg. Request Budget:"
+      }
+    }
+  },
+  "CitiesPage": {
+    "seo": {
+      "title": "All Cities | Manofix",
+      "description": "Browse all cities where Manofix operates. Find local services and professionals in your city."
+    },
+    "hero": {
+      "title": "All Cities",
+      "subtitle": "Browse all cities where Manofix operates and find local services in your area."
+    },
+    "home": "Home",
+    "navigation": {
+      "cities": "Cities"
+    },
+    "viewCity": "View City",
+    "noCities": "No cities available at the moment."
+  },
+  "CityPage": {
+    "seo": {
+      "title": "Services in {cityName} | Manofix",
+      "description": "Find trusted professionals and services in {cityName}. Connect with local taskers and get your tasks done.",
+      "notFound": {
+        "title": "City Not Found | Manofix",
+        "description": "The requested city could not be found."
+      }
+    },
+    "hero": {
+      "title": "Services in {cityName}",
+      "subtitle": "Find trusted professionals and get your tasks done in {cityName}"
+    },
+    "stats": {
+      "taskers": "Professional Taskers",
+      "activeRequests": "Active Requests",
+      "avgHourlyRate": "Avg. Hourly Rate",
+      "avgBudget": "Avg. Budget",
+      "hourAvg": "/Stunde durchschn.",
+      "budgetAvg": "budget avg",
+      "vsCountry": "vs {countryName}",
+      "higher": "higher",
+      "lower": "lower",
+      "same": "same"
+    },
+    "requests": {
+      "title": "Active Requests in {cityName}",
+      "subtitle": "Browse available service requests and start earning money today",
+      "viewDetails": "View Details",
+      "noRequests": "No Active Requests",
+      "noRequestsDescription": "There are currently no active requests in {cityName}. Be the first to post one!",
+      "postFirst": "Post First Request",
+      "budget": "Budget",
+      "location": "Location",
+      "postedOn": "Posted on"
+    },
+    "taskers": {
+      "title": "Professional Taskers in {cityName}",
+      "subtitle": "Connect with verified professionals ready to help with your tasks",
+      "professional": "Professional",
+      "viewProfile": "View Profile",
+      "noTaskers": "No Taskers Available",
+      "noTaskersDescription": "No professional taskers are currently available in {cityName}. Join our platform!",
+      "becomeTasker": "Become a Tasker",
+      "hourlyRate": "Hourly Rate",
+      "location": "Location",
+      "experience": "Experience"
+    },
+    "cta": {
+      "title": "Ready to Get Started in {cityName}?",
+      "subtitle": "Join thousands of satisfied customers and professional taskers",
+      "postTask": "Post a Request",
+      "becomeTasker": "Become a Tasker"
+    },
+    "sections": {
+      "availableRequests": "Available requests in {cityName}",
+      "availableTaskers": "Available taskers in {cityName}",
+      "noRequests": "No requests available in {cityName} at the moment.",
+      "noTaskers": "No taskers available in {cityName} at the moment.",
+      "browseAllRequests": "Browse all requests",
+      "browseAllTaskers": "Browse all taskers"
+    },
+    "sidebar": {
+      "postRequest": {
+        "title": "Post a Request",
+        "description": "Need help in {cityName}? Post your request and receive offers from qualified professionals.",
+        "button": "Post a Request"
+      },
+      "becomeTasker": {
+        "title": "Become a Tasker",
+        "description": "Are you a professional in {cityName}? Join our platform and start earning money.",
+        "button": "Become a Tasker"
+      },
+      "cityInfo": {
+        "title": "City Info",
+        "availableRequests": "Available Requests:",
+        "availableTaskers": "Available Taskers:",
+        "avgHourlyRate": "Avg. Hourly Rate:",
+        "avgRequestBudget": "Avg. Request Budget:"
+      }
+    }
+  },
+  "BecomeTaskerPage": {
+    "hero": {
+      "title": "Become a Manofix Tasker",
+      "subtitle": "Join thousands of skilled professionals earning money by helping others with their tasks. Set your own schedule and rates."
+    },
+    "benefits": {
+      "title": "Why Choose Manofix?",
+      "earnMore": {
+        "title": "Earn More Money",
+        "description": "Set your own rates and keep 85% of what you earn. No hidden fees or surprises."
+      },
+      "flexible": {
+        "title": "Flexible Schedule",
+        "description": "Work when you want, where you want. You have complete control over your schedule."
+      },
+      "secure": {
+        "title": "Secure Platform",
+        "description": "All payments are processed securely and you're covered by our insurance policy."
+      }
+    },
+    "categories": {
+      "title": "Popular Service Categories"
+    },
+    "howItWorks": {
+      "title": "How It Works",
+      "step1": {
+        "title": "Sign Up",
+        "description": "Create your profile and showcase your skills and experience"
+      },
+      "step2": {
+        "title": "Browse Tasks",
+        "description": "Find tasks that match your skills and availability"
+      },
+      "step3": {
+        "title": "Make Offers",
+        "description": "Submit competitive offers and communicate with clients"
+      },
+      "step4": {
+        "title": "Get Paid",
+        "description": "Complete the task and receive payment securely through our platform"
+      }
+    },
+    "cta": {
+      "title": "Ready to Start Earning?",
+      "subtitle": "Join thousands of taskers already earning on Manofix",
+      "signUp": "Sign Up Now",
+      "downloadApp": "Download App"
+    }
+  },
+  "EarnMoneyPage": {
+    "hero": {
+      "title": "Earn Money Online with Your Skills",
+      "subtitle": "Join thousands of expats, students, retirees, and professionals earning money by offering services in your community. Set your own rates and work on your own schedule.",
+      "getStartedButton": "Get Started Today",
+      "learnMoreButton": "Learn More"
+    },
+    "targetAudience": {
+      "title": "Perfect For Everyone Looking to Earn",
+      "expats": {
+        "title": "Expats & Internationals",
+        "description": "Use your skills to earn money while building connections in your new community"
+      },
+      "community": {
+        "title": "Community Members",
+        "description": "Help your neighbors and earn money doing what you love"
+      },
+      "retired": {
+        "title": "Retirees",
+        "description": "Stay active and earn extra income with flexible part-time work"
+      },
+      "students": {
+        "title": "Students",
+        "description": "Earn money while studying with flexible hours that fit your schedule"
+      }
+    },
+    "benefits": {
+      "title": "Why Choose Manofix?",
+      "earnMore": {
+        "title": "Earn More Money",
+        "description": "Set your own rates and keep 85% of what you earn. No hidden fees or surprises."
+      },
+      "flexible": {
+        "title": "Flexible Schedule",
+        "description": "Work when you want, where you want. You have complete control over your schedule."
+      },
+      "secure": {
+        "title": "Secure Platform",
+        "description": "All payments are processed securely and you're covered by our insurance policy."
+      }
+    },
+    "categories": {
+      "title": "Service Categories You Can Offer",
+      "subtitle": "From cleaning and maintenance to IT services and pet care, there's a category for every skill set"
+    },
+    "howItWorks": {
+      "title": "How It Works",
+      "step1": {
+        "title": "Sign Up",
+        "description": "Create your profile and showcase your skills and experience"
+      },
+      "step2": {
+        "title": "Browse Tasks",
+        "description": "Find tasks that match your skills and availability"
+      },
+      "step3": {
+        "title": "Make Offers",
+        "description": "Submit competitive offers and communicate with clients"
+      },
+      "step4": {
+        "title": "Get Paid",
+        "description": "Complete the task and receive payment securely through our platform"
+      }
+    },
+    "cta": {
+      "title": "Ready to Start Earning?",
+      "subtitle": "Join thousands of taskers already earning money on Manofix",
+      "signUpButton": "Sign Up Now"
+    },
+    "categoryPage": {
+      "hero": {
+        "title": "Earn Money as a {categoryName} Tasker",
+        "subtitle": "Start earning money by offering {categoryName} services on Manofix. Flexible hours, competitive rates, secure payments.",
+        "startEarningButton": "Start Earning as a {categoryName} Tasker",
+        "learnMoreButton": "Learn How It Works"
+      },
+      "subcategories": {
+        "title": "Choose Your {categoryName} Specialty",
+        "subtitle": "Select a specific area within {categoryName} to focus your services and attract the right clients",
+        "viewSubcategory": "View {subcategoryName} Opportunities"
+      },
+      "benefits": {
+        "title": "Why Offer {categoryName} Services?",
+        "flexibleHours": "Flexible Hours",
+        "flexibleHoursDesc": "Work when you want, set your own schedule",
+        "competitiveRates": "Competitive Rates",
+        "competitiveRatesDesc": "Set your own prices and keep more of what you earn",
+        "securePayments": "Secure Payments",
+        "securePaymentsDesc": "Get paid safely through our platform"
+      }
+    },
+    "subcategoryPage": {
+      "hero": {
+        "title": "Earn Money as a {subcategoryName} Tasker ({categoryName})",
+        "subtitle": "Specializing in {categoryName}",
+        "description": "Start earning money by offering {subcategoryName} services on Manofix. Flexible hours, competitive rates, secure payments.",
+        "startEarningButton": "Start Earning as a {subcategoryName} Tasker",
+        "learnMoreButton": "Learn How It Works"
+      },
+      "countries": {
+        "title": "Join {subcategoryName} Taskers Across Europe",
+        "subtitle": "Find flexible work opportunities in {subcategoryName} services across multiple countries."
+      },
+      "services": {
+        "title": "{subcategoryName} Services You Can Offer",
+        "subtitle": "Specialize in {subcategoryName} services and build your reputation as a skilled professional in this field."
+      },
+      "whyChoose": {
+        "title": "Why Choose {subcategoryName}?",
+        "highDemand": "High demand for {subcategoryName} services",
+        "competitiveRates": "Competitive rates for skilled professionals",
+        "buildRelationships": "Build long-term client relationships",
+        "flexibleScheduling": "Flexible scheduling options"
+      },
+      "gettingStarted": {
+        "title": "Getting Started",
+        "step1": "Create your professional profile",
+        "step2": "Showcase your {subcategoryName} expertise",
+        "step3": "Set competitive rates for your services",
+        "step4": "Start receiving job requests"
+      },
+      "cta": {
+        "title": "Ready to Start Earning as a {subcategoryName} Tasker?",
+        "subtitle": "Join thousands of taskers already earning money on Manofix. Set your own rates, work flexible hours, and get paid securely.",
+        "signUpButton": "Sign Up as a {subcategoryName} Tasker",
+        "browseOtherButton": "Browse Other {categoryName} Specializations"
+      }
+    },
+    "countryPage": {
+      "hero": {
+        "title": "Earn Money as a {subcategoryName} Tasker in {countryName}",
+        "subtitle": "Specializing in {categoryName}",
+        "description": "Join taskers in {countryName} and start earning money by offering {subcategoryName} services.",
+        "startEarningButton": "Start Earning in {countryName}"
+      },
+      "cities": {
+        "title": "{subcategoryName} Jobs in {countryName}",
+        "subtitle": "Find {subcategoryName} tasker opportunities in major cities across {countryName}."
+      }
+    },
+    "cityPage": {
+      "hero": {
+        "title": "Earn Money as a {subcategoryName} Tasker in {cityName}, {countryName}",
+        "subtitle": "Start earning money by offering {subcategoryName} services in {cityName}, {countryName}. Flexible hours, competitive rates, secure payments.",
+        "startEarningButton": "Start Earning in {cityName}",
+        "learnMoreButton": "Learn How It Works"
+      },
+      "stats": {
+        "title": "Why {cityName} is Perfect for {subcategoryName} Taskers",
+        "subtitle": "High demand for {subcategoryName} services, competitive rates, and a growing community of satisfied customers.",
+        "highDemand": {
+          "title": "High Demand",
+          "description": "{cityName} has a growing demand for {subcategoryName} services across the city."
+        },
+        "competitiveRates": {
+          "title": "Competitive Rates",
+          "description": "Set your own rates and earn competitive income for your {subcategoryName} skills and expertise."
+        },
+        "localCommunity": {
+          "title": "Local Community",
+          "description": "Build relationships with local customers and grow your {subcategoryName} business in {cityName}."
+        }
+      },
+      "gettingStarted": {
+        "title": "How to Get Started in {cityName}",
+        "subtitle": "Follow these simple steps to start earning money as a {subcategoryName} tasker in {cityName}.",
+        "step1": {
+          "title": "Sign Up",
+          "description": "Create your account and complete your profile with your {subcategoryName} skills and experience."
+        },
+        "step2": {
+          "title": "Set Your Location",
+          "description": "Set {cityName} as your service area to receive relevant {subcategoryName} job requests."
+        },
+        "step3": {
+          "title": "Choose Categories",
+          "description": "Select the service categories that match your {subcategoryName} skills and expertise."
+        },
+        "step4": {
+          "title": "Start Earning",
+          "description": "Receive job requests, make offers, and start earning money with {subcategoryName} services in {cityName}."
+        }
+      },
+      "cta": {
+        "title": "Ready to Start Earning as a {subcategoryName} Tasker in {cityName}?",
+        "subtitle": "Join thousands of taskers already earning money on Manofix in {cityName}. Set your own rates, work flexible hours, and get paid securely.",
+        "signUpButton": "Sign Up Now",
+        "browseOtherButton": "Browse Other Cities in {countryName}"
+      }
+    }
+  },
+  "NotFound": {
+    "seo": {
+      "title": "Page Not Found | Manofix",
+      "description": "The page you are looking for does not exist."
+    },
+    "title": "Page Not Found",
+    "description": "Sorry, the page you are looking for doesn't exist. It may have been moved or deleted.",
+    "goHome": "Go Home",
+    "browseCategories": "Browse Categories"
+  },
+  "Auth": {
+    "signIn": {
+      "title": "Sign In to Manofix",
+      "subtitle": "Welcome back! Please sign in to your account.",
+      "email": "Email address",
+      "password": "Password",
+      "forgotPassword": "Forgot your password?",
+      "signInButton": "Sign In",
+      "dontHaveAccount": "Don't have an account?",
+      "signUpLink": "Sign up here",
+      "googleSignIn": "Continue with Google",
+      "orDivider": "or",
+      "emailInvalid": "Please enter a valid email address",
+      "passwordRequired": "Password is required",
+      "signInError": "Invalid email or password",
+      "signInSuccess": "Successfully signed in!"
+    },
+    "login": {
+      "title": "Log in to your account",
+      "subtitle": "Welcome back! Please enter your credentials to continue.",
+      "emailLabel": "Email address",
+      "passwordLabel": "Password",
+      "rememberMe": "Remember me",
+      "forgotPassword": "Forgot your password?",
+      "signInButton": "Sign in",
+      "noAccount": "Don't have an account?",
+      "signUpLink": "Sign up",
+      "orDivider": "or",
+      "googleSignIn": "Sign in with Google",
+      "signInSuccess": "Successfully signed in!"
+    },
+    "forgotPassword": {
+      "title": "Reset Your Password",
+      "description": "Enter your email and we'll send you instructions to reset your password",
+      "emailLabel": "Email Address",
+      "submitButton": "Send Reset Link",
+      "successMessage": "Check your email! We've sent you a password reset link.",
+      "errorMessage": "Failed to send reset email. Please try again.",
+      "backToLogin": "Back to Login"
+    },
+    "resetPassword": {
+      "title": "Create New Password",
+      "description": "Enter your new password below",
+      "newPasswordLabel": "New Password",
+      "confirmPasswordLabel": "Confirm New Password",
+      "submitButton": "Update Password",
+      "successMessage": "Password updated successfully! Redirecting to login...",
+      "errorMessage": "Failed to update password. Please try again.",
+      "invalidToken": "Invalid or expired reset link. Please request a new one.",
+      "passwordMismatch": "Passwords don't match",
+      "passwordTooShort": "Password must be at least 6 characters",
+      "backToLogin": "Back to Login"
+    },
+    "signUp": {
+      "title": "Create Your Manofix Account",
+      "subtitle": "Join thousands of users who trust Manofix for their service needs.",
+      "firstName": "First name",
+      "email": "Email address",
+      "password": "Password",
+      "confirmPassword": "Confirm password",
+      "signUpButton": "Create Account",
+      "alreadyHaveAccount": "Haben Sie bereits ein Konto?",
+      "signInLink": "Sign in here",
+      "googleSignUp": "Continue with Google",
+      "orDivider": "or",
+      "userType": {
+        "title": "I want to:",
+        "client": "Find services and hire taskers",
+        "provider": "Offer services as a tasker"
+      },
+      "terms": "By creating an account, you agree to our",
+      "termsLink": "Terms of Service",
+      "andText": "and",
+      "privacyLink": "Privacy Policy",
+      "validation": {
+        "firstNameRequired": "First name is required",
+        "emailRequired": "Email is required",
+        "emailInvalid": "Please enter a valid email address",
+        "passwordRequired": "Password is required",
+        "passwordTooShort": "Password must be at least 6 characters",
+        "confirmPasswordRequired": "Please confirm your password",
+        "passwordsDontMatch": "Passwords don't match"
+      },
+      "signUpError": "Failed to create account",
+      "signUpSuccess": "Account created successfully! Please verify your email."
+    },
+    "addressVerification": {
+      "title": "Verify Your Address",
+      "subtitle": "Help us personalize your experience by confirming your location.",
+      "searchPlaceholder": "Enter your address...",
+      "searchInstructions": "Start typing your address to see suggestions",
+      "confirmButton": "Confirm Address",
+      "skipButton": "Skip for now",
+      "errorSelectAddress": "Please select a valid address",
+      "errorSavingAddress": "Error saving address. Please try again.",
+      "successMessage": "Address saved successfully!",
+      "whyAddress": "Why do we need your address?",
+      "whyAddressText": "We use your location to show you relevant services and connect you with nearby taskers.",
+      "canChangeLater": "You can change this address later in your profile settings."
+    },
+    "dashboard": {
+      "title": "Dashboard",
+      "welcome": "Welcome back, {name}!",
+      "subtitle": "Your personalized dashboard based on your location",
+      "myRequests": "My Requests",
+      "myOffers": "My Offers",
+      "settings": "Settings",
+      "nearbyServices": "Services Near You",
+      "popularInYourArea": "Popular in Your Area",
+      "getStarted": "Get Started",
+      "postFirstTask": "Post Your First request",
+      "findTaskers": "Find Taskers",
+      "becomeTasker": "Become a Tasker",
+      "taskerProfileActive": "Tasker Profile Active",
+      "taskerProfilePaused": "Tasker Profile Paused",
+      "postRequest": "Post Request",
+      "myTaskerProfile": "My Tasker Profile",
+      "profile": "Profile",
+      "locationSetup": {
+        "title": "Set up your location to see relevant services",
+        "description": "Add your address to get personalized recommendations.",
+        "addLocation": "Add Location"
+      },
+      "categories": {
+        "filterTitle": "Filter by Category",
+        "showAll": "Show All",
+        "showLess": "Show less",
+        "viewAllCategories": "View all {count} categories"
+      },
+      "sections": {
+        "taskersNearYou": "Taskers Near You",
+        "requestsNearYou": "Requests Near You"
+      },
+      "distance": {
+        "available": "Available",
+        "metersAway": "{distance} m away",
+        "kilometersAway": "{distance} km away"
+      },
+      "actions": {
+        "view": "View"
+      }
+    },
+    "profile": {
+      "title": "My Profile",
+      "userTypes": {
+        "client": "Client",
+        "serviceProvider": "Service Provider",
+        "taskerActive": "Tasker Active",
+        "taskerPaused": "Tasker Paused",
+        "becomeTasker": "Become a Tasker"
+      },
+      "sections": {
+        "personalInfo": {
+          "title": "Personal Information",
+          "description": "Manage your account details"
+        },
+        "taskerProfile": {
+          "title": "My Tasker Profile",
+          "active": "Aktiv",
+          "paused": "Paused",
+          "professionalServices": "Professional services",
+          "startEarning": "Start earning by offering your skills",
+          "since": "Since"
+        },
+        "myRequests": {
+          "title": "My Requests",
+          "activeRequest": "{count} active request",
+          "activeRequests": "{count} active requests"
+        },
+        "myBookings": {
+          "title": "My Bookings",
+          "description": "View and manage your bookings"
+        },
+        "reviews": {
+          "title": "Reviews",
+          "description": "View reviews you've given and received",
+          "given": "Reviews Given",
+          "givenDescription": "Reviews you've written",
+          "received": "Reviews Received",
+          "receivedDescription": "Reviews you've received",
+          "backToProfile": "Back to Profile",
+          "viewReviews": "View Reviews",
+          "reviewsCount": "reviews",
+          "noReviews": "No reviews yet"
+        },
+        "addresses": {
+          "title": "Adressen",
+          "savedAddress": "{count} saved address",
+          "savedAddresses": "{count} saved addresses"
+        },
+        "companyDetails": {
+          "title": "Company Details",
+          "description": "Manage your company information for quotes"
+        },
+        "preferences": {
+          "title": "Preferences",
+          "description": "Notifications and privacy settings"
+        },
+        "paymentMethods": {
+          "title": "Payment Methods",
+          "description": "Manage payment methods and payouts",
+          "comingSoon": "Coming soon"
+        },
+        "subscription": {
+          "title": "Subscription",
+          "description": "Manage your subscription plan",
+          "backToProfile": "Back to Profile"
+        },
+        "payments": {
+          "title": "Payments & Payouts",
+          "backToProfile": "Back to Profile",
+          "paying": {
+            "title": "Paying",
+            "description": "Manage your payment methods for booking services",
+            "noMethods": "No payment methods",
+            "noMethodsDescription": "Add a payment method to accept offers and make bookings",
+            "expires": "Expires",
+            "paymentMethods": "Payment Methods",
+            "recentPayments": "Recent Payments",
+            "noPayments": "No payments yet",
+            "to": "To",
+            "addMethod": "Zahlungsmethode hinzufügen",
+            "remove": "Remove"
+          },
+          "gettingPaid": {
+            "title": "Getting Paid",
+            "description": "Set up your payout account to receive payments",
+            "stripeSetup": "Stripe Connect Setup",
+            "stripeRequired": "To receive payments, you need to set up a Stripe Connect account. This allows us to securely transfer your earnings to your bank account.",
+            "setupIncomplete": "Your Stripe Connect account setup is incomplete. Please complete the onboarding process.",
+            "setupComplete": "Stripe Connect account is set up and active",
+            "completeOnboarding": "Complete Stripe Setup",
+            "managePayoutDetails": "Manage Payout Details",
+            "payoutMethods": "Payout Methods",
+            "bankAccount": "Bank Account",
+            "loading": "Loading...",
+            "transfers": "Payment Transfers",
+            "noTransfers": "No transfers yet",
+            "noTransfersDescription": "Completed bookings will appear here once payments are transferred",
+            "booking": "Booking",
+            "from": "From",
+            "created": "Created",
+            "status": {
+              "pending": "Pending",
+              "processing": "Processing",
+              "completed": "Completed",
+              "failed": "Failed"
+            }
+          },
+          "noConnectAccount": "Stripe Connect account not found. Please contact support.",
+          "pleaseLogin": "Please log in to complete setup",
+          "failedToCreateLink": "Failed to create onboarding link",
+          "failedToStartSetup": "Failed to start Stripe setup"
+        },
+        "manoWallet": {
+          "title": "Mano Wallet",
+          "comingSoon": "Coming soon"
+        },
+        "support": {
+          "title": "Support",
+          "description": "Join our community channels",
+          "whatsapp": {
+            "title": "WhatsApp Community",
+            "description": "Join our WhatsApp group"
+          },
+          "telegram": {
+            "title": "Telegram Channel",
+            "description": "Join our Telegram group"
+          }
+        },
+        "signOut": {
+          "title": "Sign Out",
+          "description": "Sign out of your account"
+        }
+      },
+      "status": {
+        "soon": "Soon"
+      },
+      "personalInfo": "Personal Info",
+      "addresses": "Adressen",
+      "preferences": "Preferences",
+      "myRequests": "My Requests",
+      "logout": "Log Out"
+    },
+    "addAddress": {
+      "backTo": "Back to Addresses",
+      "title": "Add New Address",
+      "searchLabel": "Search Address",
+      "searchPlaceholder": "Start typing your address...",
+      "searchHelper": "Start typing and select from the suggestions",
+      "setAsDefault": "Set as default address",
+      "saveButton": "Save Address",
+      "cancel": "Cancel",
+      "saving": "Saving...",
+      "addressSelected": "Address selected",
+      "errorFetchingSuggestions": "Error fetching address suggestions",
+      "errorGettingDetails": "Error getting address details",
+      "errorSelectAddress": "Please select a valid address",
+      "errorSavingAddress": "Failed to save address. Please try again.",
+      "successMessage": "Address saved successfully!"
+    },
+    "addresses": {
+      "backTo": "Back to Profile",
+      "title": "My Addresses",
+      "addButton": "Add Address",
+      "defaultBadge": "Default",
+      "delete": "Delete",
+      "setAsDefault": "Set as Default",
+      "added": "Added",
+      "empty": {
+        "title": "No addresses yet",
+        "description": "Add your first address to get personalized recommendations",
+        "button": "Add Address"
+      },
+      "deleteConfirm": "Are you sure you want to delete this address?",
+      "successDefaultUpdated": "Default address updated",
+      "successDeleted": "Address deleted",
+      "errorLoadFailed": "Failed to load addresses",
+      "errorUpdateFailed": "Failed to update default address",
+      "errorDeleteFailed": "Failed to delete address"
+    },
+    "myRequests": {
+      "backTo": "Back to Profile",
+      "title": "My Requests",
+      "newRequest": "New Request",
+      "active": "Aktiv",
+      "inactive": "Inactive",
+      "viewDetails": "View Details",
+      "pause": "Pause",
+      "resume": "Resume",
+      "budget": "Budget",
+      "category": "Category",
+      "posted": "Posted",
+      "scheduled": "Scheduled",
+      "flexibleTiming": "Flexible timing",
+      "offer": "offer",
+      "offers": "offers",
+      "pending": "pending",
+      "offersSection": {
+        "newOfferReceived": "New offer received!",
+        "newOffersReceived": "{count} new offers received!",
+        "reviewOfferMessage": "Review the offer and accept or reject it.",
+        "reviewOffersMessage": "Review the offers and choose the best one for your request.",
+        "viewOffers": "View Offers"
+      },
+      "status": {
+        "active": "Aktiv",
+        "inactive": "Inactive",
+        "assigned": "Assigned",
+        "inProgress": "In Progress",
+        "completed": "Completed",
+        "cancelled": "Cancelled"
+      },
+      "booking": {
+        "paymentFailed": "Payment Failed",
+        "accepted": "Accepted",
+        "pending": "Pending",
+        "paymentFailedMessage": "Payment failed for this booking. Please update your payment method to complete the booking.",
+        "updatePayment": "Update Payment Method",
+        "paymentConfirmedMessage": "Payment confirmed and held. Task is ready to start!",
+        "completing": "Completing...",
+        "markComplete": "Mark as Complete",
+        "completed": "Booking marked as completed",
+        "transferPending": "Payment will be released once the tasker completes their account setup. The booking has been marked as completed.",
+        "chatWithTasker": "Chat with Tasker",
+        "leaveReview": "Leave Review",
+        "viewReviews": "View Reviews"
+      },
+      "empty": {
+        "noActive": "No active requests",
+        "noInactive": "No inactive requests",
+        "postFirstActive": "Post your first active request",
+        "postFirstInactive": "No paused requests yet",
+        "button": "Post Request"
+      },
+      "successPaused": "Request paused",
+      "successResumed": "Request resumed",
+      "errorLoadFailed": "Failed to load requests",
+      "errorPauseFailed": "Failed to pause request",
+      "errorResumeFailed": "Failed to resume request"
+    },
+    "personalInfo": {
+      "backTo": "Back to Profile",
+      "title": "Personal Information",
+      "username": "Username",
+      "email": "Email",
+      "phoneNumber": "Phone Number",
+      "phonePlaceholder": "No phone number",
+      "addPhone": "Add Phone Number",
+      "updatePhone": "Update Phone Number",
+      "saveButton": "Save Changes",
+      "saving": "Saving...",
+      "successMessage": "Profile updated successfully!",
+      "errorMessage": "Failed to update profile."
+    }
+  },
+  "PhoneNumber": {
+    "title": "Add Phone Number",
+    "titleTasker": "Manage Phone Number",
+    "phoneNumber": "Phone Number",
+    "phonePlaceholder": "Enter phone number",
+    "addPhone": "Add Phone Number",
+    "updatePhone": "Update Phone Number",
+    "showOnProfile": "Show my phone number on my tasker profile (limited to paid user)",
+    "upgradeRequired": "Upgrade to a paid membership to show your phone number",
+    "upgradeLink": "View paid plans",
+    "securityNotice": "By default, your phone number and email are hidden on the platform for security. When a booking is accepted, your phone number becomes visible to the tasker and requester if both have added their phone numbers.",
+    "visibilityTitle": "Phone Number Visibility:",
+    "visibilityDefault": "Hidden by default for security",
+    "visibilityBooking": "Visible to tasker and requester when booking is accepted (if both have phone numbers)",
+    "visibilityPaid": "Can be shown on your tasker profile with a paid membership",
+    "cancel": "Cancel",
+    "save": "Save",
+    "saving": "Saving...",
+    "success": "Phone number saved successfully!",
+    "redirectToMembership": "Upgrade to a paid membership to show your phone number on your profile",
+    "upgradeForVisibility": "Upgrade to a paid membership to make your phone number visible on your profile",
+    "cardTitle": "Phone Number",
+    "cardDescription": "Add your phone number for better communication",
+    "noPhoneNumber": "Not added",
+    "errors": {
+      "required": "Phone number is required",
+      "invalidFormat": "Please enter a valid phone number (6-15 digits)",
+      "saveFailed": "Failed to save phone number. Please try again."
+    }
+  },
+  "PhoneReveal": {
+    "modalTitle": "Contact Information",
+    "verifying": "Verifying...",
+    "phoneNumber": "Phone Number",
+    "copyPhone": "Copy Phone Number",
+    "copied": "Copied!",
+    "error": "Unable to verify. Please try again.",
+    "rateLimit": "Too many attempts. Please try again later.",
+    "close": "Close",
+    "verify": "Verify",
+    "securityMessage": "For security reasons, please verify to view the phone number."
+  },
+  "HowItWorksPage": {
+    "seo": {
+      "title": "How Manofix Works | From Posting a Task to Getting It Done",
+      "description": "Learn how Manofix connects customers with skilled professionals. Discover our simple process for posting tasks, finding taskers, and getting work done safely."
+    },
+    "hero": {
+      "title": "How Manofix Works",
+      "subtitle": "Connecting customers with skilled professionals has never been easier. Learn how our platform works for both customers and taskers."
+    },
+    "forCustomers": {
+      "title": "For Customers",
+      "subtitle": "Get your tasks done by skilled professionals in 4 simple steps",
+      "step1": {
+        "title": "Post Your Request",
+        "description": "Describe what you need done, set your budget, and choose your preferred date and time."
+      },
+      "step2": {
+        "title": "Receive Offers",
+        "description": "Qualified taskers will send you offers with their rates and availability. Review their profiles and ratings."
+      },
+      "step3": {
+        "title": "Choose & Chat",
+        "description": "Select the best tasker for your needs and chat with them to finalize the details before they start."
+      },
+      "step4": {
+        "title": "Get It Done",
+        "description": "Your chosen tasker completes the work. Pay securely through our platform and leave a review."
+      },
+      "cta": "Post a Request Now"
+    },
+    "forTaskers": {
+      "title": "For Taskers",
+      "subtitle": "Start earning money by helping others with their tasks in 4 simple steps",
+      "step1": {
+        "title": "Create Your Profile",
+        "description": "Sign up, verify your identity, and showcase your skills, experience, and portfolio to attract customers."
+      },
+      "step2": {
+        "title": "Find Tasks",
+        "description": "Browse available tasks in your area that match your skills. Use filters to find the perfect opportunities."
+      },
+      "step3": {
+        "title": "Send Offers",
+        "description": "Submit competitive offers with your rates and timeline. Communicate with customers to understand their needs."
+      },
+      "step4": {
+        "title": "Complete & Get Paid",
+        "description": "Do great work, get paid securely through our platform, and build your reputation with positive reviews."
+      },
+      "cta": "Become a Tasker"
+    },
+    "safety": {
+      "title": "Safety & Trust",
+      "subtitle": "Your safety and security are our top priorities. Here's how we protect you:",
+      "verification": {
+        "title": "Identity Verification",
+        "description": "All taskers go through identity verification and background checks to ensure your safety and peace of mind."
+      },
+      "payments": {
+        "title": "Secure Payments",
+        "description": "All payments are processed securely through our platform. Money is held safely until the work is completed to your satisfaction."
+      },
+      "support": {
+        "title": "24/7 Support",
+        "description": "Our customer support team is available around the clock to help resolve any issues and ensure smooth transactions."
+      }
+    },
+    "chatbot": {
+      "title": "Need Instant Help?",
+      "subtitle": "Get quick answers to your questions with our AI-powered chatbot",
+      "description": "Our chatbot is available 24/7 to help you with common questions about our services, how to use the platform, and more.",
+      "link": "Chat Now"
+    }
+  },
+  "PreferencesPage": {
+    "title": "Preferences",
+    "subtitle": "Manage your notification and privacy settings",
+    "emailPreferences": {
+      "title": "Email Preferences",
+      "subtitle": "Choose what emails you'd like to receive",
+      "marketingEmails": {
+        "title": "Marketing Emails",
+        "description": "Receive updates about new features and promotions"
+      },
+      "bookingUpdates": {
+        "title": "Booking Updates",
+        "description": "Important updates about your bookings and tasks"
+      },
+      "promotionalOffers": {
+        "title": "Promotional Offers",
+        "description": "Special deals and discounts from Manofix"
+      },
+      "newsletter": {
+        "title": "Newsletter",
+        "description": "Weekly newsletter with tips and featured services"
+      },
+      "save": "Save",
+      "saving": "Saving...",
+      "saveSuccess": "Email preferences saved successfully",
+      "saveError": "Failed to save email preferences"
+    },
+    "languageRegion": {
+      "title": "Language & Region",
+      "subtitle": "Choose your preferred language and region settings",
+      "preferredLanguage": "Preferred Language",
+      "currency": "Currency"
+    },
+    "accountManagement": {
+      "title": "Account Management",
+      "subtitle": "Manage your account and data",
+      "downloadData": {
+        "title": "Download My Data",
+        "description": "Get a copy of your account data"
+      },
+      "deleteAccount": {
+        "title": "Delete Account",
+        "description": "Permanently delete your account and all data"
+      }
+    }
+  },
+  "MessagesPage": {
+    "title": "Messages",
+    "subtitle": "Your conversations and notifications",
+    "conversations": "conversations",
+    "refresh": "Refresh",
+    "loadError": "Failed to load conversations",
+    "unknownUser": "Unknown User",
+    "requestChat": "Service Request Chat",
+    "conversation": "Conversation",
+    "fileMessage": "📎 File",
+    "timeFormat": {
+      "justNow": "Just now"
+    },
+    "noMessages": {
+      "title": "No conversations yet",
+      "description": "Start a conversation by contacting a tasker or posting a service request.",
+      "conversation": "No messages yet",
+      "browseRequests": "Browse Service Requests"
+    }
+  },
+  "ChatRoomPage": {
+    "loadError": "Failed to load conversation",
+    "sendError": "Failed to send message",
+    "roomNotFound": "Conversation not found or you don't have access",
+    "unknownUser": "Unknown User",
+    "requestChat": "Service Request",
+    "serviceRequestChat": "Service Request Conversation",
+    "conversation": "Conversation",
+    "participant": "participant",
+    "participants": "participants",
+    "today": "Today",
+    "yesterday": "Yesterday",
+    "file": "File",
+    "messagePlaceholder": "Type your message..."
+  },
+  "TaskerDetailPage": {
+    "seo": {
+      "title": "Tasker Profile",
+      "description": "View tasker profile and contact information"
+    },
+    "taskerNotFoundTitle": "Tasker Not Found",
+    "contactError": "Please log in to contact taskers",
+    "chatRoomCreated": "Chat room created successfully",
+    "chatRoomError": "Failed to create chat room",
+    "contactFailed": "Failed to contact tasker",
+    "hireError": "Please log in to hire taskers",
+    "hireComingSoon": "Hiring feature coming soon",
+    "portfolio": "Portfolio",
+    "about": "Über",
+    "memberSince": "Member since",
+    "servicesOffered": "Services Offered",
+    "pricing": "Pricing",
+    "perHour": "per hour",
+    "hireThisTasker": "Hire This Tasker",
+    "creatingChat": "Creating chat...",
+    "contactTasker": "Contact Tasker",
+    "reviews": "Reviews",
+    "viewAllReviews": "View All Reviews",
+    "noReviewsYet": "No reviews yet",
+    "location": "Location",
+    "showPhoneNumber": "Show Phone Number"
+  },
+  "RequestDetailPage": {
+    "requestNotFoundTitle": "Request Not Found",
+    "requestNotFoundDescription": "The request you're looking for doesn't exist or has been removed.",
+    "browseAllRequests": "Browse All Requests",
+    "postedOn": "Posted on:",
+    "location": "Location:",
+    "description": "Description:",
+    "images": "Images:",
+    "scheduledFor": "Scheduled for:",
+    "flexible": "(Flexibel)",
+    "apply": "Anwenden",
+    "message": "Message",
+    "sendOffer": "Send Offer",
+    "offerAlreadySubmitted": "Offer Already Submitted",
+    "createTaskerProfileToOffer": "Create Tasker Profile to Submit Offer",
+    "taskerProfileRequired": "You need to create a tasker profile before you can submit offers.",
+    "contactError": "Please log in to contact the request owner",
+    "creatingChat": "Creating Chat...",
+    "offers": {
+      "title": "Offers",
+      "loading": "Loading offers...",
+      "noOffers": "No offers yet"
+    },
+    "requesterPhone": "Requester Phone",
+    "phoneCopied": "Phone number copied!",
+    "copy": "Copy",
+    "seo": {
+      "earn": "Earn",
+      "in": "in",
+      "needHelp": "Need help with",
+      "quickJob": "Quick job, great pay",
+      "findRightTask": "Find the right task in"
+    }
+  },
+  "PostRequest": {
+    "title": "Post a Service Request",
+    "subtitle": "Describe what you need help with and get offers from qualified taskers",
+    "form": {
+      "category": {
+        "label": "Category",
+        "placeholder": "Select a category",
+        "required": "Please select a category"
+      },
+      "address": {
+        "label": "Service Address",
+        "placeholder": "Select an address",
+        "helper": "Select where the service should be performed.",
+        "default": "Default",
+        "required": "Please select an address"
+      },
+      "description": {
+        "label": "Description",
+        "placeholder": "Provide details about what you need done, including size of the job, any specific requirements, and when you need it completed...",
+        "counter": "{current}/1000 characters (minimum 30)",
+        "minLength": "Description must be at least 30 characters"
+      },
+      "budget": {
+        "label": "Budget (€)",
+        "placeholder": "100",
+        "helper": "Set a fair budget for the work. This helps taskers understand the scope.",
+        "range": "Budget must be between €10 and €5000"
+      },
+      "scheduling": {
+        "label": "When do you need this done?",
+        "flexible": "I'm flexible with dates and times",
+        "specific": "I need it done on a specific date"
+      },
+      "images": {
+        "label": "Images (Optional)",
+        "helper": "Add photos to help taskers understand what you need done",
+        "uploadText": "Click to upload images",
+        "dragDropText": "or drag and drop images here",
+        "formatInfo": "PNG, JPG, GIF up to 10MB each (max 5 images total)",
+        "uploading": "Uploading images...",
+        "uploadingWait": "Please wait"
+      },
+      "subcategory": {
+        "label": "Subcategory",
+        "placeholder": "Select a subcategory"
+      },
+      "task": {
+        "label": "Select Task (Optional)"
+      },
+      "option": {
+        "label": "Select Option"
+      },
+      "phone": {
+        "label": "Phone Number",
+        "helper": "Add your phone number to receive updates about your request",
+        "placeholder": "Enter your phone number",
+        "showOnRequest": "Show my phone number on this request",
+        "showOnRequestHelper": "Visible to taskers who view your request (requires Pro or Pro+ subscription)",
+        "required": "Phone number is required",
+        "invalidFormat": "Please enter a valid phone number"
+      }
+    },
+    "actions": {
+      "submit": "Post Request",
+      "submitting": "Posting Request...",
+      "cancel": "Cancel"
+    },
+    "errors": {
+      "imageType": "Please select only image files",
+      "maxImages": "Maximum 5 images allowed",
+      "fileSize": "Some files are too large. Maximum size is 10MB per file.",
+      "uploadFailed": "Failed to upload images",
+      "noSubcategories": "No subcategories found for this category",
+      "limitReached": "You have reached your active request limit. Please complete or cancel an existing request, or upgrade to Pro/Pro+ for more."
+    },
+    "success": {
+      "posted": "Request posted successfully!"
+    },
+    "aiAssistant": {
+      "title": "AI Request Assistant",
+      "description": "Get help creating your perfect service request",
+      "useButton": "Use AI Assistant",
+      "hideButton": "Hide Assistant"
+    },
+    "taskTitleLabel": "Task Title",
+    "taskTitlePlaceholder": "e.g., 'Need help mounting a TV'",
+    "categoryLabel": "Category",
+    "categoryPlaceholder": "Select a category",
+    "descriptionLabel": "Description",
+    "descriptionPlaceholder": "Provide as much detail as possible...",
+    "budgetLabel": "Budget (€)",
+    "budgetPlaceholder": "e.g., 50",
+    "postButton": "Post Your Request"
+  },
+  "AboutPage": {
+    "seo": {
+      "title": "About Us - Manofix",
+      "description": "Manofix - Bridging Technology and Human Touch"
+    },
+    "hero": {
+      "title": "Manofix - Bridging Technology and Human Touch"
+    },
+    "content": {
+      "intro": "At Manofix, we recognize the double-edged sword of technology: its potential to disrupt traditional jobs, yet also its power to forge new connections between those needing work and those seeking to provide it. In an era where purchasing products online has become second nature, the realm of procuring services still lags behind, often mired in complexity and inefficiency.",
+      "mission": "Our mission is to transform the way services are bought and sold, making it as simple and straightforward as buying a product online. From household chores to technical support, Manofix is about leveraging AI and cutting-edge technology to connect people in a meaningful way, ensuring that every individual can realize the full value of their unique skills.",
+      "forCustomers": {
+        "title": "For Our Customers",
+        "description": "For our customers, Manofix promises a seamless experience in purchasing local services: Post a request, receive offers, and choose your Tasker with ease. We offer a wide range of services, secure payments, insurance, and a win-win fee model, all designed to make service acquisition transparent and hassle-free."
+      },
+      "forTaskers": {
+        "title": "For Taskers",
+        "description": "For Taskers, Manofix opens the door to flexible work opportunities, allowing them to tap into a stream of income without any upfront fees. Our tiered pricing model rewards positive behavior, lowering fees for those who consistently deliver quality service."
+      },
+      "vision": {
+        "title": "Our Vision",
+        "description": "Our vision goes beyond merely facilitating transactions. We aim to create jobs, purpose, and income, empowering people to harness the full potential of their skills in a changing world. At Manofix, we believe that people matter, and in the power of technology to connect, not divide. Join us on this journey to redefine the service industry across Europe, making it work for everyone."
+      }
+    },
+    "cta": {
+      "title": "Ready to Get Started?",
+      "description": "Are you ready to redefine how services are bought and sold? Join Manofix today, and be part of a movement that values every person's skills and strives to make service booking as easy as a click. With Manofix, support is always at your fingertips."
+    }
+  },
+  "TermsPage": {
+    "seo": {
+      "title": "Manofix Terms & conditions",
+      "description": "Manofix Terms & conditions"
+    },
+    "hero": {
+      "title": "Terms & Conditions"
+    },
+    "sections": {
+      "introduction": {
+        "title": "Introduction",
+        "content": "The website accessible at www.manofix.com is designed, edited, and hosted on AWS. By accessing and using the Site, you agree to the following terms and conditions."
+      },
+      "companyInfo": {
+        "title": "Company Information",
+        "content": "Manofix operates the website https://manofix.com (\"Site\")."
+      },
+      "userAccount": {
+        "title": "User Account and Profile",
+        "access": {
+          "title": "Access to the Site",
+          "content": "Access to the Site is free. Users will only be charged a fee when booking a service online. To book a service or to be listed as a service provider, users must create an account through the Site."
+        },
+        "information": {
+          "title": "Required Information",
+          "content": "Users must provide the necessary information to create an account. For service providers, this includes their name, address, email, mobile phone number, profile picture, CV, a copy of an identity document, and an IBAN number to receive payments."
+        },
+        "responsibility": {
+          "title": "User Responsibility",
+          "content": "Users are responsible for ensuring that all provided information is accurate and up-to-date. They are also responsible for maintaining the confidentiality of their credentials."
+        },
+        "credentials": {
+          "title": "Forgotten Credentials",
+          "content": "In case of forgotten credentials or unauthorized use, users must immediately inform the Company through our contact page."
+        }
+      },
+      "services": {
+        "title": "Services and Payments",
+        "providers": {
+          "title": "Service Provider Requirements",
+          "content": "Service providers are required to complete missions according to reservations made by service takers. Service takers will fill in a form, validate the service, and provide their credit card details for payment."
+        },
+        "commission": {
+          "title": "Commission",
+          "content": "Manofix will receive a commission equivalent to 5% of the total amount of each service provided."
+        },
+        "cancellations": {
+          "title": "Cancellations and Changes",
+          "content": "Service cancellations and changes may incur additional charges or fees."
+        }
+      },
+      "termination": {
+        "title": "Termination and Deletion of Account",
+        "userTermination": {
+          "title": "User Termination",
+          "content": "Users can terminate and delete their account and data directly on the app, in case of doubt please get in touch with us through our contact page."
+        },
+        "companyRights": {
+          "title": "Company Rights",
+          "content": "Manofix reserves the right to suspend, restrict, or close a User Account in cases of abnormal use or if there are reasonable grounds to believe that the account has been hacked or its use is contrary to this Agreement."
+        }
+      },
+      "liability": {
+        "title": "Limitation of Liability",
+        "content": "Manofix is not responsible for any indirect or consequential damages arising from the use of the Site or Services. The total liability owed by Manofix for damages arising from breach and negligence in the execution of the Contract Services may not exceed the total amount received by the Company through the Service subject to a claim."
+      },
+      "personalData": {
+        "title": "Personal Data and Cookies",
+        "usage": {
+          "title": "Data Usage",
+          "content": "Users' personal data will only be used for the purposes of the Services. Recipients of this data include the service taker, service provider, Manofix, and the host of the Site and Services."
+        },
+        "cookies": {
+          "title": "Cookies",
+          "content": "During visits to the Site, a cookie may be automatically installed in the user's browser. Users may configure their browser settings to report the presence of cookies and reject them."
+        }
+      },
+      "forceMajeure": {
+        "title": "Force Majeure",
+        "content": "Manofix is not responsible for events beyond the reasonable control of either party, including natural disasters, war, explosions, fires, floods, storms, earthquakes, insurrection, terrorism, riots, civil disturbances, rebellions, strikes, lockouts, or other labor conflicts causing a strike, blockade, or social conflict that makes it impossible to perform the service."
+      },
+      "amendments": {
+        "title": "Amendments",
+        "content": "Manofix reserves the right to modify the terms and conditions of the Contract at any time."
+      },
+      "severability": {
+        "title": "Severability",
+        "content": "If any provision of these Terms and Conditions is deemed invalid or unenforceable under applicable law or a final judicial decision, such provision will be disregarded without affecting the remaining provisions, which will remain in full force and effect."
+      },
+      "independence": {
+        "title": "Independence",
+        "content": "Each party agrees not to commit on behalf of and/or in the name of the other party. Each party is solely responsible for its acts, allegations, commitments, services, products, and personnel."
+      },
+      "contact": {
+        "title": "Contact Information",
+        "content": "All correspondence for the Company should be sent through our contact page."
+      },
+      "subscriptions": {
+        "title": "Subscriptions",
+        "content": "Subscription plans provide access to premium features and are billed on a recurring basis according to the plan selected. Subscriptions automatically renew unless cancelled before the next billing date. Subscription fees are non-refundable.",
+        "linkText": "See subscription details"
+      },
+      "aiFeatures": {
+        "title": "KI-Funktionen",
+        "content": "Any outputs generated by AI features must be reviewed and verified by the user before use; quotes generated via AI must be double-checked by the user, and requests created or modified using AI must be double-checked by the user. Use of these features and any decisions or actions taken based on them are the sole responsibility of the user, and Manofix is not responsible for the accuracy, suitability, or consequences of such use."
+      }
+    }
+  },
+  "ContactPage": {
+    "seo": {
+      "title": "Contact us | Manofix.com",
+      "description": "For any question about Manofix service please send us an email"
+    },
+    "hero": {
+      "title": "Contact Us",
+      "subtitle": "We're here to help! Get in touch with our team for any questions or support."
+    },
+    "form": {
+      "title": "Send us a message",
+      "nameLabel": "Full Name",
+      "namePlaceholder": "Enter your full name",
+      "emailLabel": "Email Address",
+      "emailPlaceholder": "Enter your email address",
+      "subjectLabel": "Subject",
+      "subjectPlaceholder": "Select a subject",
+      "messageLabel": "Message",
+      "messagePlaceholder": "Tell us how we can help you...",
+      "submitButton": "Send Message",
+      "subjects": {
+        "general": "General Inquiry",
+        "support": "Technical Support",
+        "billing": "Billing Question",
+        "partnership": "Partnership",
+        "other": "Other"
+      }
+    },
+    "info": {
+      "title": "Get in Touch",
+      "description": "Our team is here to help you with any questions about our services, technical support, or general inquiries.",
+      "email": {
+        "title": "Email",
+        "value": "contact@manofix.com"
+      },
+      "response": {
+        "title": "Response Time",
+        "value": "We typically respond within 24 hours"
+      },
+      "help": {
+        "title": "Need Help?",
+        "value": "Check our FAQ section for quick answers"
+      }
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "description": "Find quick answers to common questions about our services.",
+      "link": "Visit our FAQ page"
+    },
+    "chatbot": {
+      "title": "Get Faster Answers with Our Chatbot",
+      "description": "Need instant help? Chat with our AI assistant for quick answers to your questions.",
+      "link": "Open Chatbot"
+    }
+  },
+  "PrivacyPage": {
+    "seo": {
+      "title": "Privacy policy | Manofix",
+      "description": "Privacy policy | Manofix"
+    },
+    "hero": {
+      "title": "Privacy Policy"
+    },
+    "sections": {
+      "yourPrivacy": {
+        "title": "Your privacy",
+        "content1": "When you create an account on www.manofix.com or use the Manofix app, we collect personal data including, but not limited to, your Primary Account information, email, full name, address, phone number, IP address, and browser user record. This data is crucial for enhancing our services and understanding our customers' needs. All personal data, including sensitive information collected and shared by our app, is protected, and users can access, modify, or delete their data at any time.",
+        "content2": "When you register on www.manofix.com and become a user, we assure the protection of all your personal data that you provide in your account, including your Primary Account information. However, it is important to note that this data is not limited to your account details but may extend to other personal and sensitive data collected, used, and shared by our app, such as your Primary Account information. Each user can consult, modify, and delete their personal data at any point in time. Webmasters can also view and modify this data."
+      },
+      "cookies": {
+        "title": "Cookies",
+        "content1": "Cookies are retained for two years.",
+        "content2": "Our website and app use cookies to improve your experience. These cookies are used for functions like verifying your browser's cookie acceptance, storing login information, and remembering your screen display settings. Cookies related to your login last for 2 days, while screen settings are retained for one year. Our service may also use third-party code and libraries that employ cookies.",
+        "content3": "Our service may also use third-party code and libraries that employ cookies."
+      },
+      "thirdParty": {
+        "title": "Third-party services",
+        "content1": "www.manofix.com may contain content downloaded from other web services (Google, Facebook..). Viewing and interacting with this content uploaded to this website is equivalent to visiting the websites from which the content is downloaded. These external sites have their own privacy policies, which we encourage you to review.",
+        "content2": "These websites may gather data about you, use cookies, third-party tracking services, and monitor your actions with downloaded content, including when you have an account and are connected to these websites."
+      },
+      "informationCollection": {
+        "title": "Information Collection and Use",
+        "content": "For better service experience, we collect information through our app, including Log Data in case of errors. This may include your device's IP address, device name, operating system version, app configuration, and usage statistics. The personal information we collect is used to provide and improve our Service, and we do not share it except as described in this policy."
+      },
+      "serviceProviders": {
+        "title": "Service Providers",
+        "content": "We employ third-party companies for facilitating our Service, providing the Service on our behalf, performing Service-related tasks, or assisting in analyzing how our Service is used. These third parties have access to your Personal Information solely to perform these tasks and are obligated not to disclose or use it for any other purpose."
+      },
+      "yourRights": {
+        "title": "Your rights",
+        "content": "If you have an account on this website or have previously posted a comment here, you can request to receive a data export file containing all of the personal information we hold about you, including any information you provide to us. You can also request that we delete any personal information we hold about you. These two requirements do not apply to data that we are legally obliged to keep for administrative, legal or security purposes."
+      },
+      "security": {
+        "title": "Security",
+        "content": "To protect your personal information, including your Primary Account information, we take reasonable precautions and adhere to industry best practices to ensure it is not inappropriately lost, misused, accessed, disclosed, altered or destroyed."
+      },
+      "consent": {
+        "content": "By using this website and creating an account, you consent to the collection and use of your data as outlined above. We reserve the right to amend this privacy policy at any time with or without notice. If you have any concerns about your data or this privacy policy, please get in touch with us via the contact information provided on the website."
+      },
+      "changes": {
+        "title": "Changes to This Privacy Policy",
+        "content": "Our Privacy Policy may be updated periodically, and we advise reviewing this page for any changes. Changes will be effective upon posting on this page. This policy is effective as of 2025-01-01"
+      },
+      "contact": {
+        "title": "Contact Us",
+        "content": "For any questions or suggestions regarding our Privacy Policy, contact us through our contact page."
+      }
+    }
+  },
+  "BusinessApiPage": {
+    "seo": {
+      "title": "Business API - On-Demand Labor Solutions for SMEs & Startups | Manofix",
+      "description": "Transform your business with Manofix's Business API. Access on-demand professional services, reduce fixed costs, and scale operations efficiently. Perfect for e-commerce, real estate, short-term rentals, and insurance companies. Integrate cleaning, maintenance, and professional services seamlessly."
+    },
+    "hero": {
+      "title": "Business API - On-Demand Labor Solutions",
+      "subtitle": "Transform your business operations with seamless access to professional services. Reduce fixed costs, scale efficiently, and enhance customer experience with our comprehensive API integration."
+    },
+    "content": {
+      "intro": "Unlock the full potential of your business platform with Manofix's powerful Business API. Designed specifically for SMEs, startups, and growing companies, our API seamlessly integrates professional on-demand services into your existing operations. Whether you're in e-commerce, real estate, short-term rentals, insurance, or any service-oriented industry, our API empowers you to offer comprehensive solutions while significantly reducing operational costs and accessing a wider talent pool.",
+      "benefits": {
+        "title": "Key Business Benefits",
+        "costReduction": {
+          "title": "Reduce Fixed Costs",
+          "description": "Eliminate the need for full-time staff for occasional services. Pay only for what you need, when you need it, converting fixed costs into variable expenses."
+        },
+        "talentAccess": {
+          "title": "Access Wider Talent Pool",
+          "description": "Tap into our network of verified professionals across multiple service categories. Find specialized skills without the overhead of recruitment and training."
+        },
+        "scalability": {
+          "title": "Scale Operations Efficiently",
+          "description": "Grow your business without proportional increases in overhead. Our API handles service provider management, quality control, and customer satisfaction."
+        },
+        "quality": {
+          "title": "Maintain Service Quality",
+          "description": "All service providers are pre-vetted, insured, and rated. Our quality assurance system ensures consistent, professional service delivery."
+        }
+      },
+      "useCases": {
+        "title": "Perfect For Your Industry",
+        "ecommerce": {
+          "title": "E-commerce Platforms",
+          "description": "Offer installation, assembly, and setup services for products. Enhance customer experience with professional delivery and installation options."
+        },
+        "realEstate": {
+          "title": "Real Estate Companies",
+          "description": "Provide property maintenance, cleaning, and preparation services. Offer value-added services to property owners and tenants."
+        },
+        "shortTermRentals": {
+          "title": "Short-term Rental Platforms",
+          "description": "Automate cleaning, maintenance, and guest services. Ensure consistent property standards across your portfolio."
+        },
+        "insurance": {
+          "title": "Insurance Companies",
+          "description": "Streamline claims processing with on-demand inspection and repair services. Reduce claim processing time and improve customer satisfaction."
+        }
+      },
+      "vision": {
+        "title": "Our Vision for Business Growth",
+        "description": "Manofix is dedicated to creating a symbiotic ecosystem where businesses can flourish by offering extended service capabilities while professional service providers find consistent, well-paying work. Our Business API is the cornerstone of this vision, facilitating seamless connections that drive operational efficiency, customer satisfaction, and sustainable growth across all industries."
+      }
+    },
+    "cta": {
+      "title": "Ready to Transform Your Business?",
+      "description": "Join hundreds of companies already leveraging our Business API to reduce costs, improve efficiency, and enhance customer experience. Start your integration today and unlock new growth opportunities.",
+      "contactButton": "Contact Our Team"
+    }
+  },
+  "BlogsPage": {
+    "breadcrumb": "Blog",
+    "seo": {
+      "title": "Manofix Blog - Latest News, Tips & Insights",
+      "description": "Stay updated with the latest news, tips, and insights from Manofix. Read about home services, tasker stories, and industry trends."
+    },
+    "hero": {
+      "title": "Manofix Blog",
+      "subtitle": "Latest news, tips, and insights from the world of home services"
+    },
+    "filters": {
+      "allCategories": "Alle Kategorien",
+      "searchPlaceholder": "Search articles...",
+      "sortBy": "Sort by",
+      "sortOptions": {
+        "newest": "Newest First",
+        "oldest": "Oldest First",
+        "title": "Title A-Z"
+      }
+    },
+    "pagination": {
+      "previous": "Previous",
+      "next": "Next",
+      "page": "Page {current} of {total}",
+      "showing": "Showing {from}-{to} of {total} articles"
+    },
+    "noResults": {
+      "title": "No articles found",
+      "description": "Try adjusting your search or filter criteria"
+    }
+  },
+  "BlogPage": {
+    "backToBlog": "Back to Blog",
+    "publishedOn": "Published on {date}",
+    "category": {
+      "default": "General"
+    },
+    "relatedArticles": "Related Articles",
+    "shareThis": "Share this article",
+    "readingTime": "{minutes} min read",
+    "content": {
+      "notAvailable": "Content not available in this language",
+      "fallbackMessage": "This article is not yet translated to your selected language."
+    }
+  },
+  "TaskerProfile": {
+    "title": "Tasker Profile",
+    "createTitle": "Create Your Tasker Profile",
+    "editTitle": "Edit Your Tasker Profile",
+    "createSubtitle": "Set up your professional profile and services",
+    "editSubtitle": "Update your professional profile and services",
+    "tellClientsSubtitle": "Tell potential clients about your skills and experience to start earning on Manofix",
+    "form": {
+      "address": {
+        "label": "Service Address",
+        "placeholder": "Select an address",
+        "default": "Default",
+        "helper": "This will be your primary service area. You can add more locations later.",
+        "required": "Please select a service address"
+      },
+      "about": {
+        "label": "About You",
+        "placeholder": "Describe your experience, skills, and what makes you great at what you do. Be specific about the services you offer...",
+        "counter": "{current}/500 characters (minimum 50)",
+        "minLength": "Description must be at least 50 characters"
+      },
+      "hourlyRate": {
+        "label": "Hourly Rate (€)",
+        "placeholder": "8,00",
+        "suffix": "/Stunde",
+        "helper": "Minimum hourly rate is €8.00. Set a competitive rate - you can adjust this later.",
+        "minRate": "Hourly rate must be at least €8.00"
+      },
+      "services": {
+        "label": "Services You Offer",
+        "selectedTitle": "Selected Services:",
+        "addTitle": "Add Services:",
+        "removeCategory": "Remove Category",
+        "editServices": "Edit Services ({count} selected)",
+        "helper": "Select categories to add specific services. All services within a category are selected by default.",
+        "required": "Please select at least one service"
+      },
+      "portfolio": {
+        "label": "Portfolio Images (Optional)",
+        "uploadText": "Click anywhere here to upload photos of your work",
+        "dragDropText": "or drag and drop images anywhere in this area",
+        "formatInfo": "PNG, JPG, GIF up to 10MB each (max 5 images total)",
+        "uploading": "Uploading images...",
+        "uploadingWait": "Please wait"
+      },
+      "phone": {
+        "label": "Phone Number",
+        "helper": "Add your phone number so clients can contact you directly. This helps build trust and improves response rates.",
+        "placeholder": "Enter phone number",
+        "showOnProfile": "Show my phone number on my tasker profile",
+        "showOnProfileHelper": "Upgrade to Pro or Pro+ to show your phone number on your tasker profile. This helps clients contact you directly and can increase your bookings.",
+        "required": "Phone number is required",
+        "invalidFormat": "Please enter a valid phone number"
+      }
+    },
+    "actions": {
+      "create": "Create Tasker Profile",
+      "update": "Update Profile",
+      "creating": "Creating Profile...",
+      "updating": "Updating...",
+      "cancel": "Cancel"
+    },
+    "errors": {
+      "imageType": "Please select only image files",
+      "maxImages": "Maximum 5 images allowed",
+      "fileSize": "Some files are too large. Maximum size is 10MB per file.",
+      "uploadFailed": "Failed to upload images",
+      "createFailed": "Failed to create profile",
+      "updateFailed": "Failed to update profile"
+    },
+    "success": {
+      "created": "Tasker profile created successfully!",
+      "updated": "Profile updated successfully!",
+      "activated": "Profile activated",
+      "deactivated": "Profile deactivated"
+    },
+    "view": {
+      "title": "My Tasker Profile",
+      "subtitle": "Manage your professional profile and earnings",
+      "status": {
+        "active": "Aktiv",
+        "paused": "Paused"
+      },
+      "actions": {
+        "activate": "Activate Profile",
+        "pause": "Pause Profile",
+        "updating": "Updating...",
+        "edit": "Edit",
+        "editProfile": "Edit Profile",
+        "companyDetails": "Company Details",
+        "backToProfile": "Back to Profile",
+        "manageTasks": "Manage Tasks"
+      },
+      "share": {
+        "share": "Share Profile",
+        "shareMessage": "Book my service here",
+        "shareWhatsApp": "Share on WhatsApp",
+        "shareTelegram": "Share on Telegram",
+        "copyLink": "Copy Link",
+        "sharedWhatsApp": "Opened WhatsApp",
+        "sharedTelegram": "Opened Telegram",
+        "linkCopied": "Link copied to clipboard!",
+        "copyFailed": "Failed to copy link"
+      },
+      "quoteGenerator": {
+        "title": "KI-Angebotsgenerator",
+        "quotesThisMonth": "Quotes this month",
+        "unlimited": "Unlimited quotes",
+        "description": "Create professional quotes instantly with AI assistance",
+        "createButton": "Create Quote",
+        "viewAllButton": "View All"
+      },
+      "membership": {
+        "title": "Membership",
+        "subscriptionPlan": "Subscription plan",
+        "earlyAdopter": "Early Adopter",
+        "validUntil": "Valid until {date}",
+        "manageDescription": "Manage your subscription and features",
+        "upgradeDescription": "Upgrade to unlock more features",
+        "upgradeButton": "Upgrade",
+        "manageButton": "Manage"
+      },
+      "sections": {
+        "aboutMe": "About Me",
+        "pricing": "Pricing",
+        "perHour": "per hour",
+        "servicesIOffer": "Services I Offer",
+        "serviceArea": "Service Area",
+        "portfolio": "Portfolio",
+        "profileStats": "Profile Stats",
+        "myOffers": "My Offers",
+        "manageTasks": "Manage Tasks",
+        "manageTasksDescription": "Enable or disable tasks you offer and customize pricing for each task.",
+        "activeTasks": "Active tasks",
+        "activeBookings": "Active bookings",
+        "completedBookings": "Completed bookings"
+      },
+      "stats": {
+        "profileCreated": "Profile Created",
+        "lastUpdated": "Last Updated",
+        "status": "Status"
+      },
+      "assignedRequests": {
+        "title": "Assigned Requests",
+        "empty": "No assigned requests yet",
+        "requester": "Requester",
+        "location": "Location",
+        "date": "Date",
+        "payout": "Payout",
+        "hour": "hour",
+        "hours": "hours",
+        "unknown": "Unknown",
+        "noAddress": "No address",
+        "flexible": "Flexible",
+        "status": {
+          "pending": "Pending",
+          "accepted": "Accepted",
+          "paymentFailed": "Payment Failed",
+          "completed": "Completed"
+        },
+        "paymentPendingMessage": "Payment is pending. Waiting for requester to update payment method.",
+        "paymentHeldMessage": "Payment confirmed and held. Task is ready to start!",
+        "chatWithRequester": "Chat with Requester",
+        "leaveReview": "Leave Review",
+        "viewReviews": "View Reviews",
+        "yourPhone": "Your Phone",
+        "copy": "Copy",
+        "phoneCopied": "Phone number copied!"
+      }
+    },
+    "setup": {
+      "title": "Stripe Setup",
+      "stripeRequired": "Stripe Connect account setup is required to receive payments. Complete the onboarding process to start accepting bookings.",
+      "completeOnboarding": "Complete Onboarding",
+      "loading": "Loading...",
+      "setupComplete": "Stripe Connect account is set up and active"
+    },
+    "createProfile": "Create Profile",
+    "editProfile": "Edit Profile"
+  },
+  "BookingActions": {
+    "accept": "Akzeptieren",
+    "reject": "Reject",
+    "accepting": "Accepting...",
+    "rejecting": "Rejecting...",
+    "acceptSuccess": "Booking accepted successfully",
+    "rejectSuccess": "Booking rejected",
+    "acceptError": "Failed to accept booking",
+    "rejectError": "Failed to reject booking",
+    "confirmReject": "Are you sure you want to reject this booking?"
+  },
+  "BookingModal": {
+    "serviceAddress": "Service Address",
+    "category": "Category",
+    "selectCategory": "Select a category",
+    "subcategory": "Subcategory",
+    "selectSubcategory": "Select a subcategory",
+    "hours": "Hours",
+    "hour": "hour",
+    "hoursLabel": "hours",
+    "description": "Description",
+    "descriptionPlaceholder": "Describe what you need help with...",
+    "characters": "characters",
+    "flexibleDate": "Flexible with date",
+    "scheduledDate": "Scheduled Date",
+    "scheduledTime": "Scheduled Time",
+    "hourlyRate": "Hourly Rate",
+    "total": "Total",
+    "processing": "Processing...",
+    "continueToPayment": "Continue to Payment"
+  },
+  "BookingFlow": {
+    "title": "Book",
+    "paymentTitle": "Payment Details",
+    "successTitle": "Booking Created Successfully!",
+    "back": "Back",
+    "loginRequired": "Please log in again",
+    "successMessage": "Your booking has been created and the tasker will be notified. You can view your bookings in your profile.",
+    "redirecting": "Redirecting to bookings page...",
+    "selectPaymentMethod": "Select Payment Method",
+    "addNewCard": "Add New Card",
+    "confirmBooking": "Confirm Booking",
+    "bookByTask": "Book by Task",
+    "bookByHour": "Book by Hour",
+    "authorizingCard": "Authorizing card...",
+    "cardAuthorized": "Card authorized successfully",
+    "amount": "Amount",
+    "cardAuthorizationMessage": "Your card will be authorized but not charged until the tasker completes the job."
+  },
+  "PaymentForm": {
+    "amount": "Amount",
+    "processing": "Processing...",
+    "payNow": "Pay Now",
+    "securePayment": "Your payment is secure and encrypted",
+    "paymentDetails": "Payment Details"
+  },
+  "PaymentRetryModal": {
+    "title": "Update Payment Method",
+    "description": "Your previous payment failed. Please update your payment method to complete the booking.",
+    "bookingDetails": "Booking Details",
+    "amount": "Amount",
+    "processing": "Processing...",
+    "submit": "Submit Payment",
+    "success": "Payment updated successfully",
+    "cancel": "Cancel"
+  },
+  "TaskBookingModal": {
+    "serviceAddress": "Service Address",
+    "category": "Category",
+    "selectCategory": "Select a category",
+    "subcategory": "Subcategory",
+    "selectSubcategory": "Select a subcategory",
+    "selectTask": "Select a Task",
+    "selectOption": "Select Option",
+    "loadingTasks": "Loading tasks...",
+    "noTasksAvailable": "No tasks available for this subcategory",
+    "quantity": "Quantity",
+    "unit": "unit",
+    "units": "units",
+    "unitPrice": "Unit Price",
+    "description": "Description",
+    "descriptionPlaceholder": "Describe what you need help with...",
+    "characters": "characters",
+    "flexibleDate": "Flexible with date",
+    "scheduledDate": "Scheduled Date",
+    "scheduledTime": "Scheduled Time",
+    "taskPrice": "Task Price",
+    "estimatedDuration": "Estimated Duration",
+    "minutes": "minutes",
+    "hours": "hours",
+    "total": "Total",
+    "processing": "Processing...",
+    "continueToPayment": "Continue to Payment"
+  },
+  "TaskManagement": {
+    "title": "Manage Tasks",
+    "noTasks": "No tasks available",
+    "noTasksForSubcategory": "No tasks available for this subcategory",
+    "selectSubcategoryToViewTasks": "Please select a subcategory to view tasks",
+    "filterCategory": "Category",
+    "filterSubcategory": "Subcategory",
+    "selectCategory": "Select Category",
+    "selectSubcategory": "Select Subcategory",
+    "defaultPrice": "Default Price",
+    "duration": "Duration",
+    "minutes": "minutes",
+    "editPrice": "Edit Price",
+    "editDescription": "Edit Description",
+    "customPrice": "Custom Price",
+    "customDuration": "Duration",
+    "customDescription": "Custom Description / SLA",
+    "descriptionPlaceholder": "Enter custom description or SLA details...",
+    "descriptionRequired": "Description is required",
+    "invalidPrice": "Please enter a valid price",
+    "variants": "Variants",
+    "availabilityUpdated": "Availability updated",
+    "priceUpdated": "Price updated",
+    "descriptionUpdated": "Description updated",
+    "save": "Save",
+    "cancel": "Cancel",
+    "available": "Available",
+    "disabled": "Disabled",
+    "availabilityTooltip": "Toggle task availability. Tasks are available by default when you select a category. Use this to disable specific tasks you don't want to offer."
+  },
+  "RequestsPage": {
+    "seo": {
+      "title": "Browse Public Requests - Manofix",
+      "description": "Browse and discover public service requests on Manofix. Find tasks that match your skills and start earning money."
+    },
+    "hero": {
+      "title": "Browse Public Requests",
+      "subtitle": "Discover service requests from people in your area. Find tasks that match your skills and start earning money."
+    },
+    "stats": {
+      "showing": "Showing {from}-{to} of {total} requests"
+    },
+    "viewRequest": "View Request",
+    "noRequests": {
+      "title": "No requests found",
+      "description": "There are currently no public requests available. Check back later or post your own request."
+    },
+    "pagination": {
+      "previous": "Previous",
+      "next": "Next"
+    },
+    "error": {
+      "title": "Error loading requests",
+      "description": "There was an error loading the requests. Please try again later."
+    }
+  },
+  "TaskersPage": {
+    "seo": {
+      "title": "Discover Taskers Near You - Manofix",
+      "description": "Find professional taskers in your area. Browse verified service providers with ratings, reviews, and competitive pricing."
+    },
+    "hero": {
+      "title": "Discover Taskers Near You",
+      "subtitle": "Find professional service providers in your area. Browse verified taskers with experience, ratings, and competitive pricing."
+    },
+    "stats": {
+      "showing": "Showing {from}-{to} of {total} taskers"
+    },
+    "viewProfile": "View Profile",
+    "noTaskers": {
+      "title": "No taskers found",
+      "description": "There are currently no active taskers in your area. Check back later or expand your search area."
+    },
+    "pagination": {
+      "previous": "Previous",
+      "next": "Next"
+    },
+    "error": {
+      "title": "Error loading taskers",
+      "description": "There was an error loading the taskers. Please try again later."
+    }
+  },
+  "SubscriptionPage": {
+    "seo": {
+      "title": "Manofix Subscription Plans - Choose the Right Plan for You",
+      "description": "Choose the right subscription plan for your profile. Lower transaction fees, more visibility, and professional tools to grow on Manofix marketplace."
+    },
+    "hero": {
+      "title": "Choose the Right Plan for You",
+      "subtitle": "Unlock powerful features to grow on Manofix. Lower fees, more visibility, and professional tools for retail users and businesses."
+    },
+    "management": {
+      "title": "Manage Your Subscription",
+      "subtitle": "Upgrade your plan, view usage, and manage your subscription",
+      "description": "Manage your subscription plan and billing",
+      "currentPlan": "Current Plan",
+      "plan": "Plan",
+      "renewsOn": "Renews on",
+      "statusLabel": "Status",
+      "changePlan": "Change Plan",
+      "manageBilling": "Manage Billing",
+      "noSubscription": "No active subscription",
+      "choosePlan": "Choose a Plan",
+      "viewAllPlans": "Want to compare all plans?",
+      "viewPlansPage": "View Plans & Pricing",
+      "seeAllPlans": "See All Plans",
+      "viewAllFeatures": "View All Features",
+      "monthly": "Monthly",
+      "yearly": "Yearly",
+      "confirmSubscription": "Confirm Subscription",
+      "selectPlan": "Select Plan",
+      "back": "Back",
+      "subscribe": "Subscribe",
+      "processing": "Processing...",
+      "selectPaymentMethod": "Select Payment Method",
+      "addPaymentMethod": "Zahlungsmethode hinzufügen",
+      "addNewPaymentMethod": "Add New Payment Method",
+      "expires": "Expires",
+      "updateSuccess": "Subscription updated successfully!",
+      "cancelSuccess": "Subscription cancelled successfully",
+      "cancelSubscription": "Cancel Subscription",
+      "earlyAdopter": "Early Adopter",
+      "earlyAdopterDescription": "Get 2 years of service when you choose the yearly plan!",
+      "status": {
+        "active": "Aktiv",
+        "canceled": "Canceled",
+        "pastDue": "Past Due",
+        "trialing": "Trialing",
+        "incomplete": "Incomplete"
+      }
+    },
+    "pricing": {
+      "free": {
+        "name": "FREE",
+        "price": "€0/mo",
+        "period": "Forever",
+        "earlyDeal": "",
+        "earlyDealSubtext": "",
+        "description": "",
+        "requests": "Active Requests",
+        "fees": "7% Gebühren",
+        "transactionFees": "Transaction Fees",
+        "points": "1:1 Punkte",
+        "aiUsage": "AI USAGE:",
+        "aiRequest": "1 Anfrage/Monat",
+        "aiQuote": "1 Angebot/Monat",
+        "offers": "SEND OFFER:",
+        "offersPerDay": "1/Tag",
+        "phone": "PHONE NUMBER:",
+        "phoneVisibility": "Visible after accepted booking",
+        "features": "FEATURES:",
+        "voicePhoto": "Voice & Photo",
+        "emailSms": "Email/SMS",
+        "quoteUrls": "Quote URLs",
+        "acceptQuote": "Accept quote on platform",
+        "templates": "Basic templates",
+        "badge": "",
+        "support": "",
+        "virtualVisa": "",
+        "cashback": "",
+        "button": "Start Free"
+      },
+      "pro": {
+        "name": "PRO",
+        "price": "€4.99/mo",
+        "period": "or €59.88/yr",
+        "earlyDeal": "Early Deal:",
+        "earlyDealSubtext": "€59.88 for 24 MONTHS (50% off)",
+        "description": "",
+        "requests": "Active Requests",
+        "fees": "5% Gebühren",
+        "transactionFees": "Transaction Fees",
+        "points": "5:1 Punkte",
+        "aiUsage": "AI USAGE:",
+        "aiRequest": "10 Anfragen/Monat",
+        "aiQuote": "10 Angebote/Monat",
+        "offers": "SEND OFFER:",
+        "offersPerDay": "5/Tag",
+        "phone": "PHONE NUMBER:",
+        "phoneVisibility": "Always visible",
+        "features": "FEATURES:",
+        "voicePhoto": "Voice & Photo",
+        "emailSms": "Email/SMS",
+        "quoteUrls": "Quote URLs",
+        "acceptQuote": "Accept quote on platform",
+        "templates": "Basic templates",
+        "badge": "PRO badge",
+        "support": "Priority help",
+        "virtualVisa": "Virtual Visa + Yield (Coming Soon)",
+        "cashback": "",
+        "button": "Upgrade to Pro"
+      },
+      "proPlus": {
+        "name": "PRO+",
+        "price": "€9.99/mo",
+        "period": "or €119.88/yr",
+        "earlyDeal": "Early Deal:",
+        "earlyDealSubtext": "€119.88 for 24 MONTHS (50% off)",
+        "description": "",
+        "requests": "Active Requests",
+        "fees": "3% Gebühren",
+        "transactionFees": "Transaction Fees",
+        "points": "10:1 Punkte",
+        "aiUsage": "AI USAGE:",
+        "aiRequest": "Unlimited request",
+        "aiQuote": "Unlimited quote",
+        "offers": "SEND OFFER:",
+        "offersPerDay": "20/Tag",
+        "phone": "PHONE NUMBER:",
+        "phoneVisibility": "Always visible",
+        "features": "FEATURES:",
+        "voicePhoto": "Voice & Photo",
+        "emailSms": "Email/SMS",
+        "quoteUrls": "Quote URLs",
+        "acceptQuote": "Accept quote on platform",
+        "templates": "FULL CUSTOM (logo, etc)",
+        "badge": "PRO+ badge",
+        "support": "Multi-lang Templates",
+        "virtualVisa": "Virtual Visa + Yield (Coming Soon)",
+        "cashback": "+ 2% Cashback",
+        "button": "Upgrade to Pro"
+      }
+    },
+    "virtualVisa": {
+      "title": "💳 Virtual Visa Card (Coming Soon for Pro & Pro+)",
+      "subtitle": "Spend your Manofix earnings instantly with a virtual Visa card",
+      "spendTitle": "💸 SPEND DIRECTLY",
+      "spend1": "Use your earnings immediately",
+      "spend2": "No waiting for bank transfers",
+      "spend3": "Works everywhere Visa is accepted",
+      "earnTitle": "📈 EARN INTEREST ON IDLE CASH",
+      "earn1": "PRO: Earn yield on your balance",
+      "earn2": "PRO+: Earn yield + 2% cashback on spending",
+      "earn3": "Your money works for you while you work",
+      "exclusive": "Available exclusively for Pro and Pro+ members. Join the waitlist when you upgrade."
+    },
+    "comparison": {
+      "title": "FEATURE COMPARISON",
+      "subtitle": "Compare features across all plans",
+      "feature": "Feature",
+      "taskerProfiles": "Tasker Profiles",
+      "activeTasks": "Active Tasks",
+      "activeRequests": "Active Requests (at a time)",
+      "transactionFees": "Transaction Fees",
+      "pointRatio": "FIX Point Ratio",
+      "fixTokens": "FIX Tokens",
+      "dailyMessages": "Daily Messages",
+      "offersPerDay": "Submit Offers Per Day",
+      "phoneVisibility": "Phone Number Visibility",
+      "afterBooking": "Visible after accepted booking",
+      "alwaysVisible": "Always visible",
+      "aiRequestAssistant": "AI Request Assistant",
+      "aiQuoteGenerator": "KI-Angebotsgenerator",
+      "sendViaEmail": "Send Quotes via Email",
+      "emailQuotesFree": "1/Monat",
+      "emailQuotesPro": "10/Monat",
+      "emailQuotesProPlus": "Unlimited",
+      "invoiceTemplates": "Invoice Templates",
+      "customLogoColors": "Custom Logo/Colors",
+      "saveTemplates": "Save Templates",
+      "virtualVisaCard": "Virtual Visa Card (Coming Soon)",
+      "yieldBearingAccount": "Yield-Bearing Account (Coming Soon)",
+      "cashbackSpending": "Cashback on Spending (Coming Soon)",
+      "support": "Support",
+      "comm": "Chatbot",
+      "priority": "Priority",
+      "soon": "Coming Soon",
+      "unlimited": "UNLIMITED"
+    },
+    "phoneVisibility": {
+      "title": "Show Your Phone Number on Requests",
+      "message": "Upgrade to Pro or Pro+ to show your phone number on service requests",
+      "description": "To show your phone number on service requests, you need to upgrade to a Pro or Pro+ subscription plan.",
+      "benefitsTitle": "Benefits:",
+      "benefit1": "Your phone number will be visible to taskers viewing your requests",
+      "benefit2": "Faster communication with taskers",
+      "benefit3": "More professional appearance",
+      "close": "Close",
+      "viewPlans": "View Plans"
+    },
+    "phoneVisibilityTaskerProfile": {
+      "title": "Show Your Phone Number on Your Tasker Profile",
+      "message": "Upgrade to Pro or Pro+ to show your phone number on your tasker profile",
+      "description": "To show your phone number on your tasker profile, you need to upgrade to a Pro or Pro+ subscription plan.",
+      "benefitsTitle": "Benefits:",
+      "benefit1": "Your phone number will be visible to clients viewing your tasker profile",
+      "benefit2": "Get direct contact from interested clients",
+      "benefit3": "Faster communication and more bookings",
+      "benefit4": "More professional and trustworthy appearance",
+      "close": "Close",
+      "viewPlans": "View Plans"
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "q1": "Can customers accept my quote directly on the platform?",
+      "a1": "YES! All tiers (even Free) can send quotes that customers accept on Manofix. When accepted, it automatically creates a service request and triggers escrow payment. This keeps everything secure and on-platform.",
+      "q2": "How many offers can I send per day?",
+      "a2": "Free: 1 offer/day | Pro: 5 offers/day | Pro+: 20 offers/day. This helps maintain quality interactions and prevents spam.",
+      "q3": "When is my phone number visible to customers?",
+      "a3": "Free: Only after successful booking. Pro & Pro+: Always visible on your profile. This helps Pro/Pro+ taskers get more direct inquiries.",
+      "q4": "What's the Virtual Visa card?",
+      "a4": "Coming soon for Pro and Pro+ users! Spend your Manofix earnings directly with a Visa card. Your idle cash also earns interest while sitting in your account.",
+      "q5": "How does the yield-bearing account work?",
+      "a5": "Your Manofix balance automatically earns yield (like a savings account). No action needed - your money grows while you work. Pro+ users also get 2% cashback on card spending.",
+      "q6": "What are FIX points?",
+      "a6": "Points (also called FIX points) are rewards you earn on every completed job. They have real value and can be used on the platform. The FIX Point Ratio determines how many points you earn per euro earned: Free tier has a 1:1 ratio (€100 job = 100 points), Pro tier has a 5:1 ratio (€100 job = 500 points), and Pro+ tier has a 10:1 ratio (€100 job = 1,000 points).",
+      "q8": "What happens when a customer accepts my quote?",
+      "a8": "1) Quote converts to service request on Manofix. 2) Customer's payment is charged to their card. 3) Funds held in escrow until job complete. 4) You complete the work. 5) Customer marks as done. 6) Money released to your account. All secure and automatic!",
+      "q9": "Can I create multiple tasker profiles?",
+      "a9": "Yes! There's no limit on the number of tasker profiles you can create. Manage all your services and specialties from one account.",
+      "q10": "Do I need to wait for bank transfers?",
+      "a10": "Not with the Virtual Visa (Pro/Pro+ coming soon)! Spend earnings instantly. Or continue using traditional payout to your bank account (all tiers)."
+    },
+    "cta": {
+      "title": "Ready to Get Started?",
+      "subtitle": "Join thousands of taskers who trust Manofix to grow their business",
+      "startFree": "Start Free",
+      "learnMore": "Learn More"
+    }
+  },
+  "FixTokenPage": {
+    "seo": {
+      "title": "FIX Token - Manofix Tokenomics & Rewards",
+      "description": "Discover the FIX token ecosystem: platform usage rewards, subscription benefits, cashback rewards, and marketplace token features for the service industry."
+    },
+    "hero": {
+      "title": "FIX Token",
+      "subtitle": "Rewarding platform usage and engagement in the service marketplace",
+      "readWhitepaper": "Read Whitepaper",
+      "joinTelegram": "Join Telegram"
+    },
+    "introduction": {
+      "title": "Introduction",
+      "description": "The FIX token is Manofix's reward token designed to incentivize platform usage and user engagement. Earn tokens through your activity on the platform and unlock exclusive benefits.",
+      "pointsDistribution": "Points will be distributed to users based on their usage of the Manofix platform and their subscription tier. The more you use the platform and the higher your subscription level, the more points you'll earn.",
+      "tge": "At the Token Generation Event (TGE), users will receive FIX tokens based on their accumulated points. These tokens can then be transferred to the wallet of your choice.",
+      "learnMoreSubscription": "Learn more about subscription plans"
+    },
+    "allocation": {
+      "title": "Token Allocation",
+      "subtitle": "Strategic distribution of FIX tokens focused on rewards and platform growth"
+    },
+    "utility": {
+      "title": "Utility & Features",
+      "subtitle": "Discover the powerful features that make FIX token essential for the service industry"
+    },
+    "strategies": {
+      "title": "Additional Strategies",
+      "subtitle": "Innovative approaches to enhance token value and user engagement"
+    }
+  },
+  "BookingsPage": {
+    "title": "My Bookings",
+    "description": "View and manage all your bookings",
+    "filters": {
+      "all": "Alle",
+      "pending": "Pending",
+      "accepted": "Accepted",
+      "completed": "Completed"
+    },
+    "status": {
+      "pending": "Pending",
+      "accepted": "Accepted",
+      "completed": "Completed",
+      "payment_failed": "Payment Failed",
+      "rejected": "Rejected",
+      "cancelled_by_requester": "Cancelled",
+      "cancelled_by_tasker": "Cancelled"
+    },
+    "hour": "hour",
+    "hours": "hours",
+    "with": "With",
+    "date": "Date",
+    "flexible": "Flexible",
+    "location": "Location",
+    "noAddress": "No address",
+    "created": "Created",
+    "unknown": "Unknown",
+    "paymentFailedMessage": "Payment failed for this booking. Please update your payment method to complete the booking.",
+    "updatePayment": "Update Payment Method",
+    "updatingPayment": "Updating Payment...",
+    "paymentConfirmedMessage": "Payment confirmed and held. Task is ready to start!",
+    "completing": "Completing...",
+    "markComplete": "Mark as Complete",
+    "completed": "Booking marked as completed",
+    "transferPending": "Payment will be released once the tasker completes their account setup. The booking has been marked as completed.",
+    "chatWithTasker": "Chat with Tasker",
+    "viewRequest": "View Request",
+    "leaveReview": "Leave Review",
+    "viewReviews": "View Reviews",
+    "noBookings": "No bookings found",
+    "noBookingsDescription": "You don't have any bookings yet. Book a tasker to get started!"
+  },
+  "Review": {
+    "title": "Leave a Review",
+    "subtitle": "Review for",
+    "rating": "Rating",
+    "comment": "Comment",
+    "commentPlaceholder": "Share your experience...",
+    "submit": "Submit Review",
+    "update": "Update Review",
+    "submitting": "Submitting...",
+    "submitted": "Review submitted successfully!",
+    "updated": "Review updated successfully!",
+    "error": "Failed to submit review",
+    "cancel": "Cancel",
+    "translatedComment": "Translated comment",
+    "reviews": "Reviews",
+    "reviewsGiven": "Reviews Given",
+    "reviewsReceived": "Reviews Received",
+    "reviewsCount": "reviews",
+    "noReviews": "No reviews yet",
+    "viewAllReviews": "View All Reviews",
+    "viewReviews": "View Reviews"
+  },
+  "Translation": {
+    "disclaimer": "Translated automatically.",
+    "showOriginal": "Show original",
+    "showTranslated": "Show translation"
+  },
+  "OfferSubmissionModal": {
+    "title": "Submit Offer",
+    "priceLabel": "Price (€)",
+    "messageLabel": "Message (Optional)",
+    "messagePlaceholder": "Add a message to your offer...",
+    "characters": "characters",
+    "info": "Your offer will expire in 48 hours if not accepted. The requester will be notified of your offer.",
+    "cancel": "Cancel",
+    "submit": "Submit Offer",
+    "submitting": "Submitting...",
+    "success": "Offer submitted successfully!",
+    "errors": {
+      "priceRequired": "Price must be greater than 0",
+      "priceMinimum": "Price must be at least €8",
+      "messageTooLong": "Message must be less than 1000 characters",
+      "loginRequired": "Please log in to submit an offer",
+      "alreadySubmitted": "You have already submitted an offer for this request",
+      "submitFailed": "Failed to submit offer",
+      "dailyLimitReached": {
+        "free": "You have reached your daily limit of {limit} offer(s). Upgrade to Pro (5/day) or Pro Plus (20/day) for more offers.",
+        "pro": "You have reached your daily limit of {limit} offer(s). Upgrade to Pro Plus (20/day) for more offers.",
+        "proPlus": "You have reached your daily limit of {limit} offer(s)."
+      }
+    }
+  },
+  "OfferList": {
+    "noOffers": "No offers yet",
+    "expired": "Expired",
+    "remaining": "remaining",
+    "accept": "Accept Offer",
+    "accepting": "Accepting...",
+    "reject": "Reject",
+    "rejecting": "Rejecting...",
+    "acceptSuccess": "Offer accepted! Processing payment...",
+    "rejectSuccess": "Offer rejected",
+    "paymentRequired": "Please complete payment to finalize the booking",
+    "addPaymentMethod": "Zahlungsmethode hinzufügen",
+    "updatePaymentMethod": "Update Payment",
+    "errors": {
+      "loginRequired": "Please log in",
+      "acceptFailed": "Failed to accept offer",
+      "rejectFailed": "Failed to reject offer",
+      "paymentMethodRequired": "No payment method found. Please add a payment method to accept offers.",
+      "paymentFailed": "Payment failed. Please update your payment method. You have 48 hours to retry."
+    },
+    "bookingCreated": "Booking created. View booking details to complete payment.",
+    "showMore": "Show more",
+    "showLess": "Show less",
+    "status": {
+      "pending": "Pending",
+      "accepted": "Accepted",
+      "rejected": "Rejected",
+      "expired": "Expired",
+      "cancelled": "Cancelled"
+    }
+  },
+  "OfferAcceptanceModal": {
+    "title": "Accept Offer",
+    "amount": "Amount",
+    "selectPaymentMethod": "Select Payment Method",
+    "addNewCard": "Add New Card",
+    "cancel": "Cancel",
+    "acceptAndPay": "Akzeptieren & Zahlen",
+    "confirmation": "You will be charged when you accept this offer.",
+    "processing": "Processing...",
+    "addAndAccept": "Add Card & Accept Offer",
+    "success": "Offer accepted! Processing payment...",
+    "errors": {
+      "acceptFailed": "Failed to accept offer"
+    }
+  },
+  "TaskerOfferList": {
+    "noOffers": "You haven't submitted any offers yet",
+    "noOffersDescription": "Browse requests and submit offers to get started",
+    "noActiveOffers": "No active offers to display",
+    "offersHidden": "{count} offer(s) hidden (completed/rejected)",
+    "submitted": "Submitted",
+    "expires": "Expires",
+    "accepted": "Accepted",
+    "rejected": "Rejected",
+    "remaining": "remaining",
+    "expired": "Expired",
+    "requestTitle": "Service Request",
+    "bookingCreated": "Booking created! The requester will complete payment soon.",
+    "viewBooking": "View booking details",
+    "rejectionReason": "Reason",
+    "waitingResponse": "Waiting for requester response...",
+    "expiredMessage": "This offer expired without a response from the requester.",
+    "viewRequest": "View Request",
+    "pendingOffers": "Pending Offers",
+    "acceptedOffer": "Accepted Offer",
+    "showMore": "Show more",
+    "showLess": "Show less",
+    "status": {
+      "pending": "Pending",
+      "accepted": "Accepted",
+      "rejected": "Rejected",
+      "expired": "Expired",
+      "cancelled": "Cancelled"
+    },
+    "errors": {
+      "loadFailed": "Failed to load offers"
+    }
+  },
+  "Quotes": {
+    "title": "My Quotes",
+    "createNew": "Create New Quote",
+    "companyDetails": "Company Details",
+    "createFirst": "Create Your First Quote",
+    "noQuotes": "No quotes yet",
+    "customer": "Customer",
+    "noEmail": "No email",
+    "created": "Created",
+    "expires": "Expires",
+    "editButton": "Edit",
+    "copyLink": "Copy Link",
+    "sendByEmail": "Send by Email",
+    "sending": "Sending...",
+    "emailSent": "Quote sent successfully",
+    "emailError": "Failed to send quote",
+    "noEmailAddress": "Please add customer email address first",
+    "cannotEditSent": "This quote has been sent and cannot be edited",
+    "view": "View",
+    "share": "Share",
+    "shareWhatsApp": "Share on WhatsApp",
+    "shareTelegram": "Share on Telegram",
+    "shareMessage": "Hi, it's {name}. Here is your quote:",
+    "shareEmail": "Share via Email",
+    "downloadPDF": "Download PDF",
+    "pdfDownloaded": "PDF downloaded successfully",
+    "pdfError": "Failed to generate PDF",
+    "errors": {
+      "limitReached": "You have reached your quote creation limit. Upgrade to Pro or Pro Plus for more quotes.",
+      "checkLimitFailed": "Failed to check quote limit",
+      "companyDetailsProPlusOnly": "Company details modification is only available for Pro Plus subscribers. Please upgrade your subscription.",
+      "saveFailed": "Failed to save quote"
+    },
+    "status": {
+      "draft": "Draft",
+      "sent": "Sent",
+      "viewed": "Viewed",
+      "accepted": "Accepted",
+      "expired": "Expired"
+    },
+    "viewPage": {
+      "title": "Quote",
+      "notFound": "Quote Not Found",
+      "notFoundMessage": "This quote may have expired or been removed.",
+      "from": "From",
+      "to": "To",
+      "lineItems": "Line Items",
+      "description": "Description",
+      "quantity": "Quantity",
+      "unitPrice": "Unit Price",
+      "total": "Total",
+      "subtotal": "Subtotal",
+      "tax": "Tax",
+      "discount": "Discount",
+      "notes": "Notes",
+      "terms": "Terms & Conditions",
+      "recommendedProducts": "Recommended Products",
+      "validUntil": "Valid until",
+      "acceptQuote": "Accept Quote",
+      "logInToAccept": "Log In to Accept Quote",
+      "processing": "Processing...",
+      "acceptMessage": "Accepting this quote will create a service request and initiate payment authorization.",
+      "expired": "This quote has expired.",
+      "expiredMessage": "Please contact the tasker for a new quote.",
+      "accepted": "This quote has been accepted.",
+      "acceptedMessage": "The service request has been created.",
+      "urlCopied": "Quote URL copied to clipboard!",
+      "backToTaskerProfile": "Back to Tasker Profile"
+    },
+    "edit": {
+      "title": "Edit Quote",
+      "customerName": "Customer Name",
+      "customerNamePlaceholder": "Enter customer name",
+      "customerEmail": "Customer Email",
+      "customerEmailPlaceholder": "Enter customer email",
+      "customerPhone": "Customer Phone",
+      "customerPhonePlaceholder": "Enter customer phone number",
+      "customerAddress": "Customer Address",
+      "customerAddressPlaceholder": "Enter customer address",
+      "save": "Save Changes",
+      "saving": "Saving...",
+      "cancel": "Cancel",
+      "success": "Quote updated successfully",
+      "error": "Failed to update quote",
+      "invalidEmail": "Please enter a valid email address",
+      "invalidPhone": "Please enter a valid phone number",
+      "cannotEditTitle": "Quote Cannot Be Edited",
+      "cannotEditMessage": "This quote has already been sent and cannot be edited. Please create a new quote if you need to make changes.",
+      "close": "Close"
+    },
+    "pdf": {
+      "quote": "Quote",
+      "quoteNumber": "Quote #",
+      "date": "Date",
+      "from": "From",
+      "to": "To",
+      "description": "Description",
+      "quantity": "Quantity",
+      "qty": "Qty",
+      "unitPrice": "Unit Price",
+      "total": "Total",
+      "subtotal": "Subtotal",
+      "tax": "Tax",
+      "notes": "Notes",
+      "page": "Page",
+      "of": "of",
+      "generatedWith": "Generated with Manofix"
+    }
+  },
+  "CompanyDetails": {
+    "title": "Company Details",
+    "description": "Add your company information to automatically include it in your quotes. This information will appear on PDF quotes you generate.",
+    "back": "Back",
+    "loading": "Loading...",
+    "logo": "Company Logo",
+    "uploadLogo": "Upload Logo",
+    "uploading": "Uploading...",
+    "removeLogo": "Remove Logo",
+    "logoHint": "Upload your company logo (PNG, JPG, max 5MB). Logo will appear in the header of your PDF quotes.",
+    "companyName": "Company Name",
+    "companyNamePlaceholder": "Enter your company name",
+    "companyVatNumber": "VAT Number / Tax ID",
+    "companyVatNumberPlaceholder": "Enter your VAT/Tax identification number",
+    "companyVatNumberHint": "Your company's VAT number, Tax ID, SIRET, CIF, or similar identification number",
+    "companyAddress": "Company Address",
+    "companyAddressPlaceholder": "Enter your company address",
+    "companyPhone": "Company Phone",
+    "companyPhonePlaceholder": "Enter your company phone number",
+    "companyEmail": "Company Email",
+    "companyEmailPlaceholder": "Enter your company email",
+    "save": "Save Changes",
+    "saving": "Saving...",
+    "saveSuccess": "Company details saved successfully",
+    "saveError": "Failed to save company details",
+    "loadError": "Failed to load company details",
+    "uploadError": "Failed to upload logo",
+    "invalidImageType": "Please upload a valid image file",
+    "imageTooLarge": "Image size must be less than 5MB",
+    "logoUploaded": "Logo uploaded successfully",
+    "close": "Close",
+    "cancel": "Cancel",
+    "invalidEmail": "Please enter a valid email address",
+    "invalidPhone": "Please enter a valid phone number",
+    "default": "Default",
+    "addNewAddress": "Want to add a new address?",
+    "addAddress": "Add Address",
+    "noAddresses": "No addresses found. Please add an address first."
+  },
+  "AIQuoteGenerator": {
+    "title": "KI-Angebotsgenerator",
+    "subtitle": "Create professional quotes with AI",
+    "welcomeMessage": "Hi! I'm your AI Quote Generator. Describe the work you need to quote, upload photos, or use voice input. I'll help you create a professional quote with line items.",
+    "quoteDetails": "Quote Details",
+    "customer": "Customer",
+    "name": "Name",
+    "email": "Email",
+    "phone": "Phone",
+    "lineItems": "Line Items",
+    "addItem": "+ Hinzufügen",
+    "description": "Description",
+    "quantity": "Quantity",
+    "qty": "Qty",
+    "unitPrice": "Unit Price",
+    "price": "Price",
+    "total": "Total",
+    "subtotal": "Subtotal",
+    "tax": "Tax",
+    "taxPercent": "Tax (%)",
+    "discount": "Discount",
+    "discountPercent": "Discount (%)",
+    "notes": "Notes",
+    "notesPlaceholder": "Additional notes...",
+    "saveQuote": "Save Quote",
+    "saving": "Saving...",
+    "transcribing": "Transcribing audio...",
+    "thinking": "AI is thinking...",
+    "describeWork": "Describe the work to quote...",
+    "quoteGenerated": "I've analyzed your job and generated {count} line item(s) with a total of €{total}. Review the quote details in the sidebar and make any adjustments before saving.",
+    "quoteSaved": "Quote saved successfully! You can now view and share it.",
+    "error": "Sorry, I encountered an error: {error}. Please try again.",
+    "addLineItemError": "Please add at least one line item",
+    "saveError": "Failed to save quote",
+    "remove": "Remove",
+    "analyzing": "Analyzing your job description and generating a professional quote..."
+  },
+  "AIQuoteGeneratorPage": {
+    "seo": {
+      "title": "AI Quote Generator for Professionals | Save Hours Creating Quotes | Manofix",
+      "description": "Stop wasting hours on quotes. Create professional quotes in 30 seconds with AI. Never forget a quote again. Centralized quote management, optional payment integration, and professional formatting. Perfect for service providers, handymen, and professionals across Europe, Africa, and Latin America.",
+      "keywords": "quote generator for professionals, save time creating quotes, professional quote software, automated quote creation, quote management system, get paid faster quotes, never forget a quote, professional service quotes, AI quote generator"
+    },
+    "hero": {
+      "badge": "For Professionals & Service Providers",
+      "headline": "Stop Wasting Hours on Quotes",
+      "subheadline": "Create Professional Quotes in 30 Seconds",
+      "description": "Turn hours of WhatsApp messages, emails, and manual calculations into 30 seconds of AI-powered quote creation. Never forget a quote again. All your quotes stored in one place.",
+      "socialProof": "Join 10,000+ professionals saving 5+ hours per week",
+      "ctaPrimary": "Try Quote Generator Free",
+      "ctaSecondary": "View Pricing Plans"
+    },
+    "socialProof": {
+      "title": "Trusted by Professionals Worldwide",
+      "subtitle": "See how professionals are saving time and growing their business",
+      "testimonial1": {
+        "quote": "I save 5 hours per week creating quotes. This tool is a game-changer for my business.",
+        "author": "Maria S.",
+        "role": "Handyman Professional"
+      },
+      "testimonial2": {
+        "quote": "I used to lose clients because I forgot to send quotes. Now I never miss an opportunity.",
+        "author": "Jean-Pierre L.",
+        "role": "Cleaning Service Provider"
+      },
+      "testimonial3": {
+        "quote": "My clients are impressed with the professional quotes. I can handle 3x more clients now.",
+        "author": "Carlos M.",
+        "role": "Construction Professional"
+      }
+    },
+    "beforeAfter": {
+      "title": "Before vs. After Manofix AI Quote Generator",
+      "before": {
+        "title": "Before",
+        "item1": "2-3 Stunden pro Angebot",
+        "item2": "Quotes scattered across WhatsApp, email, phone",
+        "item3": "Forgetting to send quotes = lost clients",
+        "item4": "Manual calculations = errors",
+        "item5": "Unprofessional formatting",
+        "item6": "Chasing payments manually"
+      },
+      "after": {
+        "title": "After",
+        "item1": "30 Sekunden pro Angebot",
+        "item2": "All quotes in one centralized place",
+        "item3": "Never forget a quote - automated reminders",
+        "item4": "AI calculations = zero errors",
+        "item5": "Professional formatting every time",
+        "item6": "Optional integrated payments = faster cash flow"
+      }
+    },
+    "features": {
+      "title": "Powerful Features for Busy Professionals",
+      "subtitle": "Everything you need to create professional quotes faster",
+      "photoAnalysis": {
+        "title": "Snap a Photo, Get a Quote",
+        "description": "Snap a photo, get a quote in seconds. AI analyzes job site photos, identifies materials, estimates labor, and creates professional line items automatically."
+      },
+      "voiceTranscription": {
+        "title": "No More Typing",
+        "description": "Just speak your quote while on-site. AI transcribes, analyzes, and creates professional quotes instantly. Perfect for busy professionals."
+      },
+      "centralizedStorage": {
+        "title": "Never Lose a Quote Again",
+        "description": "All your quotes stored in one place. Track status, send follow-ups, and manage all client communications. No more searching through WhatsApp or email."
+      },
+      "integratedPayments": {
+        "title": "Get Paid Faster (Optional)",
+        "description": "Optional payment integration allows clients to accept quotes and pay directly through the platform. No more chasing payments or waiting for bank transfers."
+      },
+      "quoteTemplates": {
+        "title": "Save Your Best Quotes",
+        "description": "Save quote templates for recurring jobs. Create new quotes from templates in seconds and maintain consistency across clients."
+      },
+      "bulkQuotes": {
+        "title": "Quote Multiple Jobs at Once",
+        "description": "Scan multiple job photos and generate quotes for all of them simultaneously. Perfect for busy weeks and handling multiple clients."
+      },
+      "realTimeEditing": {
+        "title": "Real-Time Editing",
+        "description": "Edit line items, quantities, and prices in real-time. Add notes, terms, and customize everything. Totals calculate automatically."
+      }
+    },
+    "benefits": {
+      "title": "Why Professionals Choose Our AI Quote Generator",
+      "subtitle": "Save time, look professional, grow your business",
+      "saveHours": {
+        "title": "Save Hours Every Week",
+        "description": "Stop spending hours on quotes. Our AI does the work in seconds, giving you time to focus on what matters - your clients and your craft."
+      },
+      "neverForget": {
+        "title": "Never Forget a Quote",
+        "description": "Centralized quote management means you never lose a quote again. Track all quotes, send automated follow-ups, and close more deals."
+      },
+      "lookProfessional": {
+        "title": "Look More Professional",
+        "description": "Impress clients with polished, itemized quotes. Professional formatting, accurate calculations, and branded PDFs build trust and win more jobs."
+      },
+      "getPaidFaster": {
+        "title": "Get Paid Faster (Optional)",
+        "description": "Optional integrated payment processing means clients can accept and pay instantly. No more waiting for bank transfers or chasing payments."
+      },
+      "scaleBusiness": {
+        "title": "Scale Your Business",
+        "description": "Handle 3x more clients with the same time. Create quotes faster, never miss an opportunity, and grow your business."
+      }
+    },
+    "howItWorks": {
+      "title": "How It Works",
+      "subtitle": "From hours to seconds in 3 simple steps",
+      "step1": {
+        "title": "Snap a Photo or Speak",
+        "time": "30 Sekunden",
+        "description": "Take photos at the job site or describe the work verbally. No typing required. AI understands what you need."
+      },
+      "step2": {
+        "title": "KI erstellt professionelle Angebote",
+        "time": "Instant",
+        "description": "AI analyzes your input and creates itemized line items with descriptions, quantities, unit prices, and totals. Automatic formatting included."
+      },
+      "step3": {
+        "title": "Send & Get Paid",
+        "time": "One click",
+        "description": "Send via email, SMS, or shareable link. Client accepts online. Optional: Enable payment integration for instant payments."
+      }
+    },
+    "useCases": {
+      "title": "Perfect for Every Professional",
+      "subtitle": "See how different professionals use our AI Quote Generator",
+      "handyman": {
+        "title": "Handyman Services",
+        "description": "Create quotes for repairs, installations, and maintenance jobs in seconds. Perfect for busy handymen juggling multiple clients."
+      },
+      "cleaning": {
+        "title": "Cleaning Services",
+        "description": "Quote multiple cleaning jobs quickly. Perfect for recurring clients and commercial contracts. Save templates for common services."
+      },
+      "construction": {
+        "title": "Construction & Renovation",
+        "description": "Complex projects made simple. AI breaks down materials, labor, and costs automatically. Handle large projects with ease."
+      },
+      "itServices": {
+        "title": "IT & Tech Services",
+        "description": "Quote software projects, installations, and support contracts professionally. Impress tech-savvy clients with polished quotes."
+      }
+    },
+    "pricing": {
+      "title": "Choose the Plan That Fits Your Business",
+      "subtitle": "Start free, upgrade as you grow",
+      "free": {
+        "title": "Free",
+        "requests": "1/Monat",
+        "description": "Perfect for trying it out",
+        "features": []
+      },
+      "pro": {
+        "title": "Pro",
+        "badge": "POPULAR",
+        "requests": "10/Monat",
+        "description": "For growing businesses",
+        "features": {
+          "0": "Save 5+ hours per week",
+          "1": "Centralized quote management",
+          "2": "Optional payment integration"
+        }
+      },
+      "proPlus": {
+        "title": "Pro+",
+        "requests": "Unlimited",
+        "description": "For established professionals",
+        "features": {
+          "0": "Priority support",
+          "1": "Advanced analytics",
+          "2": "Custom branding"
+        }
+      },
+      "viewAllPlans": "View All Plans"
+    },
+    "cta": {
+      "title": "Ready to Create Professional Quotes Faster?",
+      "subtitle": "Join thousands of professionals who save hours every week with our AI Quote Generator",
+      "button": "Get Started Free"
+    }
+  },
+  "AIRequestAssistant": {
+    "seo": {
+      "title": "Service Procurement Platform for Businesses | Compare Quotes & Get Transparent Pricing | Manofix",
+      "description": "Stop guessing service costs. Get transparent pricing and compare quotes from multiple providers instantly. Perfect for businesses managing recurring services, property management, and facility maintenance. AI-powered service requests, price transparency, and centralized management. Compare providers, see market rates, and never overpay again.",
+      "keywords": "service procurement platform, compare service quotes business, transparent service pricing, recurring service management, property management services platform, facility maintenance quotes, business service provider comparison, how much do services cost, service cost estimation business, manage service providers, service request management system, business service marketplace"
+    },
+    "hero": {
+      "badge": "For Businesses & Property Managers",
+      "headline": "Stop Guessing Service Costs",
+      "subheadline": "Get Transparent Pricing & Compare Quotes in Seconds",
+      "description": "Describe your service need, upload photos, or speak naturally. Our AI creates professional requests and connects you with qualified providers. Compare prices, read reviews, and hire with confidence. Perfect for businesses managing recurring services.",
+      "socialProof": "Trusted by 5,000+ businesses across Europe",
+      "ctaPrimary": "Get Started Free",
+      "ctaSecondary": "View Business Plans"
+    },
+    "socialProof": {
+      "title": "Trusted by Businesses Across Europe",
+      "subtitle": "See how businesses save time and money with transparent service pricing",
+      "testimonial1": {
+        "quote": "I used to spend hours calling providers for quotes. Now I get 5+ quotes in minutes. Game-changer for my property management business.",
+        "author": "Sarah M.",
+        "role": "Property Manager"
+      },
+      "testimonial2": {
+        "quote": "Finally, I can see what services actually cost. No more overpaying because I didn't know the market rate.",
+        "author": "Jean-Luc D.",
+        "role": "Facility Manager"
+      },
+      "testimonial3": {
+        "quote": "Managing recurring services used to be chaos. Now everything is centralized and I can compare providers easily.",
+        "author": "Maria R.",
+        "role": "Restaurant Owner"
+      }
+    },
+    "beforeAfter": {
+      "title": "Before vs. After Manofix AI Request Assistant",
+      "before": {
+        "title": "Before",
+        "item1": "Hours spent calling providers for quotes",
+        "item2": "No idea what services should cost",
+        "item3": "Requests scattered across emails, calls, WhatsApp",
+        "item4": "Hard to compare providers and prices",
+        "item5": "No transparency - providers quote different prices",
+        "item6": "Difficult to manage recurring services"
+      },
+      "after": {
+        "title": "After",
+        "item1": "Get 5+ quotes in minutes, not hours",
+        "item2": "See market rates and price ranges instantly",
+        "item3": "All requests in one centralized dashboard",
+        "item4": "Easy comparison with side-by-side quotes",
+        "item5": "Full transparency - see all provider details",
+        "item6": "Manage recurring services with templates"
+      }
+    },
+    "features": {
+      "title": "Powerful Features for Business Service Management",
+      "subtitle": "Everything you need to streamline service procurement and management",
+      "textInput": {
+        "title": "Describe Your Service Need",
+        "description": "Simply describe what you need done in plain language. Our AI understands your request and converts it into a professional service description that attracts quality providers and gets you accurate cost estimates."
+      },
+      "photoAnalysis": {
+        "title": "Upload Photos for Better Estimates",
+        "description": "Upload up to 3 photos of the work needed. Our AI analyzes the images to understand the scope of work and suggests the right service category, helping you get more accurate cost estimates from professionals."
+      },
+      "voiceInput": {
+        "title": "Speak Your Request",
+        "description": "Describe your service needs naturally using voice input. Perfect when you're on the go or need to quickly request quotes. Our AI transcribes and creates a detailed service request that gets you multiple quotes."
+      },
+      "priceTransparency": {
+        "title": "See What Services Actually Cost",
+        "description": "Get instant price estimates based on real market data. See price ranges, average costs, and what similar businesses pay. No more guessing or overpaying."
+      },
+      "quoteComparison": {
+        "title": "Compare Providers Side-by-Side",
+        "description": "Receive quotes from multiple qualified providers instantly. Compare prices, reviews, availability, and credentials in one place. Make informed decisions faster."
+      },
+      "recurringTemplates": {
+        "title": "Manage Recurring Services Easily",
+        "description": "Create templates for recurring services (cleaning, maintenance, etc.). Schedule regular requests automatically and manage all your service providers in one place."
+      },
+      "providerVerification": {
+        "title": "Hire Verified, Trusted Providers",
+        "description": "All providers are verified with credentials, insurance, and reviews. See ratings, response times, and past work. Hire with confidence."
+      },
+      "centralizedManagement": {
+        "title": "All Requests in One Dashboard",
+        "description": "No more scattered emails and calls. Manage all service requests, quotes, and providers in one centralized dashboard. Track status, communicate, and pay."
+      },
+      "bulkRequests": {
+        "title": "Request Multiple Services at Once",
+        "description": "Need services for multiple locations or properties? Create bulk requests and get quotes from providers for all locations simultaneously."
+      }
+    },
+    "benefits": {
+      "title": "Why Businesses Choose Our Service Request Assistant",
+      "subtitle": "Save time, get transparent pricing, and manage services efficiently",
+      "saveProcurementTime": {
+        "title": "Save Hours on Service Procurement",
+        "description": "Stop spending hours calling providers and waiting for quotes. Get multiple quotes in minutes, compare instantly, and hire faster. Focus on your business, not procurement."
+      },
+      "neverOverpay": {
+        "title": "Never Overpay Again",
+        "description": "See market rates and compare prices from multiple providers. Never overpay because you didn't know what services cost. Make informed decisions."
+      },
+      "centralizedManagement": {
+        "title": "Manage All Services in One Place",
+        "description": "No more scattered requests across emails, calls, and WhatsApp. Centralized dashboard for all service requests, quotes, providers, and communications."
+      },
+      "betterProviderSelection": {
+        "title": "Choose the Right Provider Every Time",
+        "description": "Compare providers based on price, reviews, availability, credentials, and past work. Make data-driven decisions and build relationships with trusted providers."
+      },
+      "streamlineRecurring": {
+        "title": "Simplify Recurring Service Management",
+        "description": "Create templates for recurring services, schedule automatic requests, and manage all your regular providers efficiently. Perfect for property and facility management."
+      },
+      "bridgeKnowledgeGap": {
+        "title": "Know What You Need Before Hiring",
+        "description": "AI suggests service categories, what's typically needed, and estimated costs. No more confusion about what to ask for or what it should cost."
+      }
+    },
+    "howItWorks": {
+      "title": "How It Works for Businesses",
+      "subtitle": "From hours of calls to multiple quotes in minutes",
+      "step1": {
+        "title": "Describe Your Need",
+        "time": "30 Sekunden",
+        "description": "Describe your service need, upload photos, or speak naturally. AI understands what you need and suggests the right service category."
+      },
+      "step2": {
+        "title": "Get Multiple Quotes",
+        "time": "Instant",
+        "description": "AI creates a professional request and sends it to qualified providers in your area. Receive multiple quotes with pricing, availability, and provider details."
+      },
+      "step3": {
+        "title": "Compare & Hire",
+        "time": "One click",
+        "description": "Compare quotes side-by-side, read reviews, check credentials, and hire the best provider. All communication and payment handled through the platform."
+      },
+      "step4": {
+        "title": "Manage & Repeat",
+        "time": "Ongoing",
+        "description": "Save templates for recurring services, track all requests in your dashboard, and build relationships with trusted providers."
+      }
+    },
+    "useCases": {
+      "title": "Perfect for Every Business Type",
+      "subtitle": "See how different businesses use our Service Request Assistant",
+      "propertyManagement": {
+        "title": "Property Management Companies",
+        "description": "Manage maintenance requests for multiple properties efficiently. Get quotes for repairs, cleaning, landscaping, and more. Compare providers and track all services in one dashboard."
+      },
+      "facilityManagement": {
+        "title": "Facility & Building Managers",
+        "description": "Streamline facility maintenance and service procurement. Get quotes for HVAC, plumbing, electrical, cleaning, and security services. Manage recurring contracts easily."
+      },
+      "restaurantHospitality": {
+        "title": "Restaurant & Hospitality Businesses",
+        "description": "Manage recurring services like cleaning, equipment maintenance, pest control, and repairs. Get competitive quotes and maintain service quality across locations."
+      },
+      "retailBusinesses": {
+        "title": "Retail & Commercial Spaces",
+        "description": "Handle maintenance, cleaning, security, and repair services for retail locations. Compare providers, manage multiple locations, and ensure consistent service quality."
+      },
+      "healthcareFacilities": {
+        "title": "Healthcare & Medical Facilities",
+        "description": "Find qualified providers for facility maintenance, cleaning, equipment servicing, and specialized services. Verify credentials and ensure compliance."
+      },
+      "coworkingSpaces": {
+        "title": "Co-working & Shared Spaces",
+        "description": "Manage services for shared facilities including cleaning, maintenance, IT support, and amenities. Keep spaces professional and well-maintained."
+      }
+    },
+    "pricing": {
+      "title": "Choose the Plan That Fits Your Business",
+      "subtitle": "Start free, upgrade as you grow",
+      "free": {
+        "title": "Free",
+        "requests": "1/Monat",
+        "description": "Perfect for trying it out",
+        "features": []
+      },
+      "pro": {
+        "title": "Pro",
+        "badge": "POPULAR",
+        "requests": "10/Monat",
+        "description": "Perfect for small businesses",
+        "features": {
+          "0": "Advanced quote comparison",
+          "1": "Recurring service templates",
+          "2": "Bulk request creation",
+          "3": "Priority support"
+        }
+      },
+      "business": {
+        "title": "Business",
+        "requests": "Unlimited",
+        "description": "For growing businesses",
+        "features": {
+          "0": "Multi-user access",
+          "1": "Advanced analytics",
+          "2": "Custom integrations",
+          "3": "Dedicated account manager"
+        }
+      },
+      "viewAllPlans": "View All Plans"
+    },
+    "cta": {
+      "title": "Ready to Streamline Your Service Procurement?",
+      "subtitle": "Join thousands of businesses saving time and money with transparent service pricing",
+      "button": "Get Started Free"
+    },
+    "component": {
+      "title": "AI Request Assistant",
+      "subtitle": "Create your service request",
+      "welcomeMessage": "Hi! I'm your AI Request Assistant. Describe what service you need, upload photos, or use voice input. I'll help you create a perfect service request.",
+      "clear": "Clear",
+      "clearChatHistory": "Clear chat history",
+      "processing": "Processing your request...",
+      "placeholder": "Describe what service you need...",
+      "addImages": "Add Images",
+      "voiceInput": "Voice Input",
+      "stopRecording": "Stop Recording",
+      "send": "Send",
+      "preview": "Preview",
+      "errors": {
+        "microphoneAccess": "Could not access microphone. Please check permissions.",
+        "transcriptionFailed": "Failed to transcribe audio. Please try typing instead.",
+        "noTranscript": "No transcript received",
+        "analyzeFailed": "Failed to analyze request",
+        "processFailed": "Failed to process request. Please try again.",
+        "updateFailed": "Failed to update selection",
+        "updateInfoFailed": "Failed to update with additional information",
+        "reanalyzeFailed": "Failed to re-analyze with size"
+      },
+      "messages": {
+        "foundService": "✅ I've found the right service for you!",
+        "task": "✅ Task:",
+        "estimatedPrice": "💰 Estimated price:",
+        "formPopulated": "✅ Form populated!",
+        "selected": "Selected:",
+        "price": "Price:",
+        "reviewForm": "Review the form below and adjust if needed.",
+        "updatedSelection": "✅ Updated! Selected {size} size.",
+        "updatedRefined": "✅ Updated! Based on your answer, I've refined the request.",
+        "updatedPrice": "💰 Updated price:",
+        "moreAccurateQuote": "❓ To give you a more accurate quote:",
+        "analyzedRequest": "I've analyzed your request."
+      },
+      "interactive": {
+        "sizeSmall": "Small (< 10m²)",
+        "sizeMedium": "Medium (10-30m²)",
+        "sizeLarge": "Large (> 30m²)",
+        "timingASAP": "As soon as possible",
+        "timingThisWeek": "This week",
+        "timingNextWeek": "Next week",
+        "timingFlexible": "Flexible"
+      }
+    }
+  }
+}
